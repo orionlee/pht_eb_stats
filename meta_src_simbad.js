@@ -182,8 +182,12 @@ function toSimbadMetaCSV(metaList, sep='|') {
   return toCSV(metaList, ['tic', 'id', 'type', 'magB', 'magV', 'magR', 'angularDistance', 'aliases'], sep);
 }
 
-
+// @generic
 function joinTextList(textList, sep='------') {
+  // TODO: changed it so that the separator
+  // - precedes the text
+  // - in the form of ------ TIC <tic number>
+  // so that one can search the resulting text file for a given TIC more easily
   let  res = ''
   for (const text of textList) {
     res += text;
