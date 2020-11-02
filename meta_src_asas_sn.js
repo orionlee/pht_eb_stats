@@ -18,6 +18,7 @@ async function getAsasSnMetaOfCoord(idMeta) {
   const text = await resp.text();
   const doc = new DOMParser().parseFromString(text, 'text/html');
 
+  // TODO: handle HTTP 429 Too Many Requests
   let textToSave = '';
   let meta = parseAsasSnMeta(doc);
   if (meta == null) {
