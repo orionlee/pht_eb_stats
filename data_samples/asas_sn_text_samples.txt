@@ -43489,26 +43489,549 @@ Next&nbsp;›
 </div>
 </div>
 ------ TIC 468958374
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="/variables/c2c22b2c-0860-5be5-93f9-5af052469cb4">ASASSN-V J071046.29+075351.9</a></td>
+<td>BX CMi</td>
+<td>107.69288</td>
+<td>7.89775</td>
+<td>1.96</td>
+<td>10.73</td>
+<td>0.53</td>
+<td>NON PERIODIC</td>
+<td>VAR</td>
+</tr>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+Displaying <b>1</b> Variable
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=107.692894&amp;dec=7.897206&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 469441650
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="/variables/6c71f5f8-c149-52bd-b0f9-bf29a321c35c">ASASSN-V J175920.32-375251.6</a></td>
+<td>RW CrA</td>
+<td>269.83466</td>
+<td>-37.88099</td>
+<td>1.06</td>
+<td>9.61</td>
+<td>0.76</td>
+<td>NON PERIODIC</td>
+<td>VAR</td>
+</tr>
+<tr>
+<td><a target="_blank" href="/variables/762ce9ac-2a1f-549d-ac6d-8b7fc0a9c51b">ASASSN-V J175923.25-375412.9</a></td>
+<td></td>
+<td>269.84599</td>
+<td>-37.90331</td>
+<td>85.68</td>
+<td>13.93</td>
+<td>0.61</td>
+<td>NON PERIODIC</td>
+<td>VAR</td>
+</tr>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+Displaying <b>2</b> Variables
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=269.834583&amp;dec=-37.881278&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 470124714
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=330.563309&amp;dec=81.5421&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 470152814
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=332.266175&amp;dec=80.713012&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 470212961
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=343.648239&amp;dec=80.664844&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 470901118
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=42.387923&amp;dec=57.883316&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 471012349
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=109.321084&amp;dec=-5.017538&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 609742113
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="/variables/1cc33446-6161-54bc-bdb2-8ab216e262ca">ASASSN-V J003837.25+792137.9</a></td>
+<td>DDE 19</td>
+<td>9.6552</td>
+<td>79.36053</td>
+<td>1.09</td>
+<td>16.2</td>
+<td>1.89</td>
+<td>0.6612505</td>
+<td>UGSU</td>
+</tr>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+Displaying <b>1</b> Variable
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=9.656502&amp;dec=79.360345&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 640714388
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=52.071458&amp;dec=25.481511&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 1717079071
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=286.971388&amp;dec=46.868246&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 1883519478
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="/variables/ae36551a-08b5-5ef0-bda0-7325311116d9">ASASSN-V J193841.36+545826.7</a></td>
+<td>V1143 Cyg</td>
+<td>294.67235</td>
+<td>54.97407</td>
+<td>1.82</td>
+<td>6.63</td>
+<td>0.37</td>
+<td>NON PERIODIC</td>
+<td>VAR</td>
+</tr>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+Displaying <b>1</b> Variable
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=294.671858&amp;dec=54.974491&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
 ------ TIC 1981303680
+<div class="panel panel-default table-panel">
+<table class="table table-striped table-hover">
+<thead>
+<tr><th>ASAS-SN Name</th>
+<th>Other Names</th>
+<th>Right Ascension</th>
+<th>Declination</th>
+<th>Distance from Search (arcsec)</th>
+<th>Mean VMag</th>
+<th>Amplitude</th>
+<th>Period</th>
+<th>Type</th>
+</tr></thead>
+<tbody>
 
+</tbody>
+</table>
+<div class="panel-footer">
+<div class="pagination-position-text">
+No Variables found
+</div>
+
+<nav class="pagination-nav pagy-nav">
+<ul class="pagination">
+<li class="page-item prev disabled">
+<a class="page-link" href="javascript:void(0)">
+‹&nbsp;Prev
+</a>
+</li>
+<li class="page-item active"><a href="/variables?ra=300.391677&amp;dec=70.454548&amp;radius=2&amp;vmag_min=&amp;vmag_max=&amp;amplitude_min=&amp;amplitude_max=&amp;period_min=&amp;period_max=&amp;lksl_min=&amp;lksl_max=&amp;class_prob_min=&amp;class_prob_max=&amp;parallax_over_err_min=&amp;parallax_over_err_max=&amp;name=&amp;references[]=I&amp;references[]=II&amp;references[]=III&amp;references[]=IV&amp;references[]=V&amp;references[]=VI&amp;sort_by=distance&amp;sort_order=asc&amp;show_non_periodic=true&amp;show_without_class=true&amp;asassn_discov_only=false&amp;page=1" class="page-link">1</a></li>
+<li class="page-item next disabled">
+<a class="page-link" href="javascript:void(0)">
+Next&nbsp;›
+</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</div>
