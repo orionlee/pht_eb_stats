@@ -2,6 +2,19 @@
 // ASAS-SN variables: https://asas-sn.osu.edu/variables
 // - must run the script from the site
 
+// @generic
+async function fetchText(url) {
+  const resp = await fetch(url);
+  if (!resp.ok) {
+    const err = new Error(`HTTP Error: ${resp.status} ${resp.statusText}`);
+    err.url = url;
+    err.status = resp.status;
+    err.statusText = resp.statusText;
+    throw err;
+  }
+  return resp.text();
+}
+
 // @exports
 async function getAsasSnMetaOfCoord(idMeta) {
   if (!idMeta.ra || !idMeta.dec) {
@@ -13,12 +26,10 @@ async function getAsasSnMetaOfCoord(idMeta) {
   // OPEN: consider getting csv export instead of scarping the HTML.
   // it has the advantage of having more data, in particular classification probability
   // but it requires a few http calls to complete, and seems to be slower (and possibly less prepared for bulk calls)
+  const text = await fetchText(url);
 
-  const resp = await fetch(url);
-  const text = await resp.text();
   const doc = new DOMParser().parseFromString(text, 'text/html');
 
-  // TODO: handle HTTP 429 Too Many Requests
   let textToSave = '';
   let meta = parseAsasSnMeta(doc);
   if (meta == null) {
