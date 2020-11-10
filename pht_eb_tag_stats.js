@@ -50,10 +50,12 @@ async function getCommentsOfSubject(subjectId) {
 
 //@export
 function ebAndTransitSynonym(tag) {
+  // TODO: consider to add  #binary
   if (['#eclipsingbinary', '#eclipsing-binary', '#eb', '#eccentric-eb'].includes(tag)) {
     return 'like#eclipsingbinary';
   }
 
+  // TODO: consider to add  #planet, #planets, #confirmedplanet, #confirmed
   if (['#transit', '#transits', '#possible', '#possibletransit', '#possible_transit', '#possible-transit', '#possibletransits', '#candidate'].includes(tag)) {
     return 'like#transit';
   }
