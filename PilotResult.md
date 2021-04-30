@@ -59,10 +59,19 @@ While I am not expert in classifying eclipsing binary, I feel the scrutiny provi
 
 ## Data
 
-- TODO: link to the list, scripts, etc.
+- The candidate list is available in :  [csv](data_samples/pht_eb_candidates_from_samples.csv), [google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing)
+
+- This [google sheet](https://docs.google.com/spreadsheets/d/18wDmfVStrwNpAf-6RDzmYPUzVSEkG3zMbzZKFuYQ2Ss/edit?usp=sharing) contains data of all the TICs before data reduction is done to create the sample list.
 
 ## Credits
 
 - [Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/) volunteers
 - The 3 catalogs used: [VSX](https://www.aavso.org/vsx/), [ASAS-SN](https://asas-sn.osu.edu/variables), and [SIMBAD](http://simbad.u-strasbg.fr/simbad/).
 - Accessing VSX is done by using [astroquery](https://astroquery.readthedocs.io/) package via [Vizier](https://vizier.u-strasbg.fr/).
+
+## Appendix
+
+Distribution of the eclipsing binary candidates:
+
+![image](https://user-images.githubusercontent.com/250644/116744616-67c0ed80-a9af-11eb-9c0b-0cdfb942b137.png)
+
