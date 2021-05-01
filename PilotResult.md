@@ -60,6 +60,65 @@ I have manually scrutinized about 20 subjects, and report that the majority of t
 While I am not expert in classifying eclipsing binary, I feel the scrutiny provide some assurance that the proxy accuracy reported above is not way off the actual one.
 
 
+## Top Candidates
+
+The following are the top 9 candidates 9 with the `N_eb_adj` >= 5:
+
+- TIC [233060434](https://exofop.ipac.caltech.edu/tess/target.php?id=233060434)  (Subject [48227121](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227121))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/a53941ec-447a-4dea-b828-c027a118ef28.png)
+
+---
+
+- TIC [76073981](https://exofop.ipac.caltech.edu/tess/target.php?id=76073981)  (Subject [48934888](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48934888))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/f985b10e-69bf-4c69-860c-ad76f970d053.png)
+
+---
+
+- TIC [207385593](https://exofop.ipac.caltech.edu/tess/target.php?id=207385593)  (Subject [44564164](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/44564164))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/69e527a9-3310-4271-ab55-6c0352115596.png)
+
+---
+
+- TIC [255921197](https://exofop.ipac.caltech.edu/tess/target.php?id=255921197)  (Subject [48948447](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48948447))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/ec4b6f0b-d1b9-4281-ae50-b17f7c810a1e.png)
+
+---
+
+- TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/fb154111-23fb-4a65-a035-3e36fe8c4701.png)
+
+---
+
+- TIC [423027012](https://exofop.ipac.caltech.edu/tess/target.php?id=423027012)  (Subject [48942511](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48942511))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/9abe7bf3-6277-4767-b4bf-6a07c1dcc29c.png)
+
+---
+
+- TIC [468276605](https://exofop.ipac.caltech.edu/tess/target.php?id=468276605)  (Subject [48224154](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48224154))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/c041e987-f9f9-41f9-ad4e-e1f4720486ee.png)
+
+---
+
+- TIC [342061072](https://exofop.ipac.caltech.edu/tess/target.php?id=342061072)  (Subject [48943266](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48943266))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/71401b42-8ce7-42a3-b58c-007f940582aa.png)
+
+---
+
+- TIC [178171080](https://exofop.ipac.caltech.edu/tess/target.php?id=178171080)  (Subject [30253517](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/30253517))
+
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/fd79206f-6612-43cb-bce8-6694b0c969f1.png)
+
+---
+
+
 ## Data
 
 - The candidate list is available in :  [csv](data_samples/pht_eb_candidates_from_samples.csv), [google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing)
