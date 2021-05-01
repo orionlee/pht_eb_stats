@@ -8,7 +8,7 @@
 - While there is no rigorous assessment of the accuracy of the tagging yet, there are reason to believe that they are quite accurate, upward about **96%** in the candidate list.
   - i.e, the list of 67 candidates is expected to have upward **65** real eclipsing binaries.
   - the [list in csv](data_samples/pht_eb_candidates_from_samples.csv)
-- If the work is expanded to all subjects across sectors 1 - 26, the list is estimated to have about 1900 candidates.
+- If the work is expanded to all subjects across sectors 1 - 26, the list is estimated to have about **670** candidates.
 
 
 ## Methodology
