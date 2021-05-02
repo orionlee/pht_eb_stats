@@ -9,7 +9,8 @@
   - i.e, the list of 67 candidates is expected to have upward **65** real eclipsing binaries.
   - the [list in csv](data_samples/pht_eb_candidates_from_samples.csv)
 - If the work is expanded to all subjects across sectors 1 - 26, the list is estimated to have about **670** candidates.
-
+- The top 9 most promising candidates are further inspected manually. They all appear to be legitimate eclipsing binaries.
+  - Among the 9 top candidates, one of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), has only 1 eclipse observed. Such targets are much less likely to be detected by automated pipelines.
 
 ## Methodology
 
@@ -62,61 +63,81 @@ While I am not expert in classifying eclipsing binary, I feel the scrutiny provi
 
 ## Top Candidates
 
-The following are the top 9 candidates 9 with the `N_eb_adj` >= 5:
+The following are the top 9 candidates 9 with the `N_eb_adj` >= 5, with some notes after inspecting their lightcurves, stellar parameters (from ExoFOP), TCE validation reports (if available), and source target pixel files, for false positive possibilities (e.g., contamination). They all appear to be legitimate eclipsing binary candidates.
+
 
 - TIC [233060434](https://exofop.ipac.caltech.edu/tess/target.php?id=233060434)  (Subject [48227121](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227121))
+  - appears to be a system of a M-dwarf and a brown dwarf.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/a53941ec-447a-4dea-b828-c027a118ef28.png)
 
 ---
 
 - TIC [76073981](https://exofop.ipac.caltech.edu/tess/target.php?id=76073981)  (Subject [48934888](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48934888))
+  - probably an algol: a system of an F main sequence star and a M dwarf or brown dwarf.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/f985b10e-69bf-4c69-860c-ad76f970d053.png)
 
 ---
 
 - TIC [207385593](https://exofop.ipac.caltech.edu/tess/target.php?id=207385593)  (Subject [44564164](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/44564164))
+  - appears to be a system of a M-dwarf and a brown dwarf.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/69e527a9-3310-4271-ab55-6c0352115596.png)
 
 ---
 
 - TIC [255921197](https://exofop.ipac.caltech.edu/tess/target.php?id=255921197)  (Subject [48948447](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48948447))
+  - possibly an algol: a system of an F main sequence star and a M dwarf or brown dwarf. Some additional high frequency (~0.05 day) oscillation.
+  - No clear secondary eclipses. They could possibly be buried in the oscillation.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/ec4b6f0b-d1b9-4281-ae50-b17f7c810a1e.png)
 
 ---
 
 - TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275))
+  - only a single eclipse was observed. But all point to it to be an eclipsing binary.
+  - a system of an A main sequence star and a brown dwarf or M dwarf
+  - observed only a single deep dip across 3 continuous sectors (24, 25, 26).
+  - A rough estimate on the period placed it larger than 100 days, consistent with the observation.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/fb154111-23fb-4a65-a035-3e36fe8c4701.png)
 
 ---
 
 - TIC [423027012](https://exofop.ipac.caltech.edu/tess/target.php?id=423027012)  (Subject [48942511](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48942511))
+  - probably an algol: A system of an F main sequence star and a brown dwarf or M dwarf
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/9abe7bf3-6277-4767-b4bf-6a07c1dcc29c.png)
 
 ---
 
 - TIC [468276605](https://exofop.ipac.caltech.edu/tess/target.php?id=468276605)  (Subject [48224154](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48224154))
+  - appears to be a system of a G main sequence star and a M dwarf or brown dwarf.
+  - appears to have some (tiny) flares as well.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/c041e987-f9f9-41f9-ad4e-e1f4720486ee.png)
 
 ---
 
 - TIC [342061072](https://exofop.ipac.caltech.edu/tess/target.php?id=342061072)  (Subject [48943266](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48943266))
+  - appears to be a system of a K main sequence star and a brown dwarf of M dwarf.
 
 <br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/71401b42-8ce7-42a3-b58c-007f940582aa.png)
 
 ---
 
-- TIC [178171080](https://exofop.ipac.caltech.edu/tess/target.php?id=178171080)  (Subject [30253517](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/30253517))
+- TIC [178171080](https://exofop.ipac.caltech.edu/tess/target.php?id=178171080)  (Subject [29666960](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/29666960) + 2 others)
+  - appears to be a system of B main sequence star and a brown dwarf or M dwarf.
+  - Cannot spot secondary eclipses though all other data point it to be an eclipsing binary.
 
-<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/fd79206f-6612-43cb-bce8-6694b0c969f1.png)
+<br>![image](https://thumbnails.zooniverse.org/999x250/panoptes-uploads.zooniverse.org/subject_location/17f06d2a-48f7-4256-b995-5b93b3bd6fa9.png)
 
 ---
+
+### Single Eclipse Candidates
+
+One of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), is special in that only one eclipses was observed. It is likely to be a long period eclipsing binary (with a period longer than 100 days). Targets similar to this one are likely to fall through the crack of typical automated pipelines to identify eclipsing binaries.
 
 
 ## Data
@@ -130,6 +151,10 @@ The following are the top 9 candidates 9 with the `N_eb_adj` >= 5:
 - [Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/) volunteers
 - The 4 catalogs used: [VSX](https://www.aavso.org/vsx/), [ASAS-SN](https://asas-sn.osu.edu/variables), [SIMBAD](http://simbad.u-strasbg.fr/simbad/), [TESS Eclipsing Binary Data Validation](https://baas.aas.org/pub/2021n1i530p01)
 - Accessing VSX is done by using [astroquery](https://astroquery.readthedocs.io/) package via [Vizier](https://vizier.u-strasbg.fr/).
+- Stellar parameters from [ExoFOP TESS](https://exofop.ipac.caltech.edu/tess/)
+- TCE Validation reports from [ExoMAST](https://exo.mast.stsci.edu/)
+- Light Curves and Target Pixel Files from [MAST](https://mast.stsci.edu/).
+  - Accessing and visualizing them by using [lightkurve](http://docs.lightkurve.org/) package
 
 ## Appendix
 
