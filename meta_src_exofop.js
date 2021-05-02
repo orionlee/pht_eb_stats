@@ -188,6 +188,43 @@ if (false) {
 
 
 
+// Codes to parse stored exfop result (in text) to obtain contamination ratio
+
+function parseTicContaminationRatio(text) {
+  lines = text.split('\n');
+  const res = [];
+  for(i = 0; i < lines.length - 1; i += 2) {
+    const [ticLine, ratioLine] = [lines[i], lines[i+1]];
+    const tic = ticLine.replace(/TIC ID\s+/, '');
+    const contaminationRatio = ratioLine.replace(/TIC Contamination Ratio\s*/, '');
+    res.push({tic, contaminationRatio});
+
+  }
+  return res;
+}
+
+
+// @generic
+function toCSV(objectList, fields, sep='|') {
+  const csvLines = [];
+  for (const meta of objectList) {
+    const line = fields.map(field => {
+      // handle output null as empty string for csv
+      const val = meta[field];
+      return val != null ? val : '';
+    }).join(sep);
+    csvLines.push(line);
+  }
+  return csvLines.join('\n');
+}
+
+// obtained from egrep '^TIC (ID|Contamination Ratio)' exofop_text_samples.txt
+ticContamText = ``;
+
+console.log(toCSV(parseTicContaminationRatio(ticContamText), ['tic', 'contaminationRatio'], '|'));
+
+
+
 // Test the parsing of individual TICs
 function testParse1() {
   const text = `TIC ID 188816156

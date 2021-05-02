@@ -1,0 +1,2896 @@
+TIC ID 111027
+TIC Contamination Ratio     0.024437
+TIC ID 627436
+TIC Contamination Ratio     0.599099
+TIC ID 671564
+TIC Contamination Ratio     0.007416
+TIC ID 737546
+TIC Contamination Ratio     0.001814
+TIC ID 878056
+TIC Contamination Ratio     0.078225
+TIC ID 1029392
+TIC Contamination Ratio
+TIC ID 1045298
+TIC Contamination Ratio     0.052629
+TIC ID 1159914
+TIC Contamination Ratio     0.130585
+TIC ID 1450518
+TIC Contamination Ratio     0.031217
+TIC ID 2353789
+TIC Contamination Ratio     0.175556
+TIC ID 2372579
+TIC Contamination Ratio     0.062875
+TIC ID 4629065
+TIC Contamination Ratio     0.000673
+TIC ID 4735737
+TIC Contamination Ratio     0.016033
+TIC ID 4786828
+TIC Contamination Ratio     0.34566
+TIC ID 5703872
+TIC Contamination Ratio     0.003825
+TIC ID 6400274
+TIC Contamination Ratio     0.057835
+TIC ID 7020254
+TIC Contamination Ratio     0.001408
+TIC ID 7320873
+TIC Contamination Ratio
+TIC ID 7624182
+TIC Contamination Ratio     0.00885
+TIC ID 7724421
+TIC Contamination Ratio     0.002194
+TIC ID 7854182
+TIC Contamination Ratio     0.033438
+TIC ID 9172417
+TIC Contamination Ratio     0.329191
+TIC ID 9391285
+TIC Contamination Ratio     4.0E-5
+TIC ID 9433212
+TIC Contamination Ratio     0.019335
+TIC ID 9845586
+TIC Contamination Ratio     0.05299
+TIC ID 9966358
+TIC Contamination Ratio     0.017073
+TIC ID 10393493
+TIC Contamination Ratio     0.382451
+TIC ID 10467747
+TIC Contamination Ratio     0.042562
+TIC ID 11171398
+TIC Contamination Ratio     0.155042
+TIC ID 11286209
+TIC Contamination Ratio
+TIC ID 12824209
+TIC Contamination Ratio     0.27975
+TIC ID 12828458
+TIC Contamination Ratio     0.279034
+TIC ID 12915124
+TIC Contamination Ratio
+TIC ID 13070701
+TIC Contamination Ratio     0.010596
+TIC ID 13079486
+TIC Contamination Ratio     1.012895
+TIC ID 13325340
+TIC Contamination Ratio     0.006949
+TIC ID 13840107
+TIC Contamination Ratio     0.760406
+TIC ID 13957444
+TIC Contamination Ratio     0.000282
+TIC ID 14617089
+TIC Contamination Ratio
+TIC ID 14850843
+TIC Contamination Ratio     0.077269
+TIC ID 17468122
+TIC Contamination Ratio     0.018547
+TIC ID 18250189
+TIC Contamination Ratio
+TIC ID 18914916
+TIC Contamination Ratio     0.007353
+TIC ID 19193162
+TIC Contamination Ratio     0.041574
+TIC ID 20215452
+TIC Contamination Ratio     0.010142
+TIC ID 20239565
+TIC Contamination Ratio     0.005115
+TIC ID 20871923
+TIC Contamination Ratio     0.035801
+TIC ID 20876588
+TIC Contamination Ratio     0.060372
+TIC ID 21827849
+TIC Contamination Ratio
+TIC ID 22079739
+TIC Contamination Ratio     0.111585
+TIC ID 22146154
+TIC Contamination Ratio     0.127662
+TIC ID 22529346
+TIC Contamination Ratio     0.138322
+TIC ID 22843856
+TIC Contamination Ratio     0.002953
+TIC ID 22877676
+TIC Contamination Ratio     0.003545
+TIC ID 23221002
+TIC Contamination Ratio     4.4E-5
+TIC ID 23936839
+TIC Contamination Ratio
+TIC ID 24433067
+TIC Contamination Ratio
+TIC ID 24522770
+TIC Contamination Ratio     0.005149
+TIC ID 24586751
+TIC Contamination Ratio     0.003217
+TIC ID 24606516
+TIC Contamination Ratio     0.066198
+TIC ID 25078924
+TIC Contamination Ratio     0.028657
+TIC ID 25183492
+TIC Contamination Ratio     0.023167
+TIC ID 26432264
+TIC Contamination Ratio
+TIC ID 27112021
+TIC Contamination Ratio     1.6E-5
+TIC ID 27312189
+TIC Contamination Ratio     0.088092
+TIC ID 27315670
+TIC Contamination Ratio     0.973267
+TIC ID 27397122
+TIC Contamination Ratio     0.175672
+TIC ID 28290956
+TIC Contamination Ratio     0.013799
+TIC ID 29777922
+TIC Contamination Ratio     0.010359
+TIC ID 29778064
+TIC Contamination Ratio     0.020503
+TIC ID 29831208
+TIC Contamination Ratio
+TIC ID 29986808
+TIC Contamination Ratio     0.058521
+TIC ID 30016911
+TIC Contamination Ratio     0.000155
+TIC ID 30028394
+TIC Contamination Ratio     1.7E-5
+TIC ID 30034081
+TIC Contamination Ratio     0.031667
+TIC ID 30312916
+TIC Contamination Ratio
+TIC ID 30531417
+TIC Contamination Ratio     0.165424
+TIC ID 30562668
+TIC Contamination Ratio
+TIC ID 30631330
+TIC Contamination Ratio     0.140875
+TIC ID 30816076
+TIC Contamination Ratio     0.17813
+TIC ID 31107108
+TIC Contamination Ratio
+TIC ID 31273263
+TIC Contamination Ratio     0.06103
+TIC ID 31303242
+TIC Contamination Ratio     0.00489
+TIC ID 31653503
+TIC Contamination Ratio     0.015366
+TIC ID 31870141
+TIC Contamination Ratio     0.01325
+TIC ID 31998499
+TIC Contamination Ratio     0.104459
+TIC ID 32000625
+TIC Contamination Ratio     0.011771
+TIC ID 32008233
+TIC Contamination Ratio
+TIC ID 32093154
+TIC Contamination Ratio     0.013519
+TIC ID 32152978
+TIC Contamination Ratio     0.00881
+TIC ID 32702481
+TIC Contamination Ratio     0.000247
+TIC ID 32932888
+TIC Contamination Ratio     5.031932
+TIC ID 33689349
+TIC Contamination Ratio     0.040867
+TIC ID 33715938
+TIC Contamination Ratio     0.02456
+TIC ID 33742428
+TIC Contamination Ratio
+TIC ID 33834253
+TIC Contamination Ratio     0.091475
+TIC ID 33862174
+TIC Contamination Ratio     0.032606
+TIC ID 33864821
+TIC Contamination Ratio
+TIC ID 34978817
+TIC Contamination Ratio
+TIC ID 35086365
+TIC Contamination Ratio     0.002314
+TIC ID 35744707
+TIC Contamination Ratio     0.020944
+TIC ID 36728572
+TIC Contamination Ratio     0.000295
+TIC ID 36729364
+TIC Contamination Ratio     0.001677
+TIC ID 37601240
+TIC Contamination Ratio     0.003223
+TIC ID 38399380
+TIC Contamination Ratio     0.142755
+TIC ID 38461578
+TIC Contamination Ratio     0.021847
+TIC ID 38462492
+TIC Contamination Ratio     0.015874
+TIC ID 38465274
+TIC Contamination Ratio     0.004829
+TIC ID 38469787
+TIC Contamination Ratio     0.045926
+TIC ID 38541473
+TIC Contamination Ratio     0.019665
+TIC ID 38586438
+TIC Contamination Ratio     0.015138
+TIC ID 38687360
+TIC Contamination Ratio     0.000554
+TIC ID 38699825
+TIC Contamination Ratio     0.000643
+TIC ID 38909679
+TIC Contamination Ratio     4.5E-5
+TIC ID 39389004
+TIC Contamination Ratio     0.008643
+TIC ID 40288117
+TIC Contamination Ratio     0.167012
+TIC ID 41170667
+TIC Contamination Ratio     0.03449
+TIC ID 41533230
+TIC Contamination Ratio     0.016933
+TIC ID 41896812
+TIC Contamination Ratio     0.003041
+TIC ID 42828781
+TIC Contamination Ratio     0.012212
+TIC ID 43333148
+TIC Contamination Ratio     0.02962
+TIC ID 43533897
+TIC Contamination Ratio     0.006681
+TIC ID 43843023
+TIC Contamination Ratio     0.149173
+TIC ID 43864479
+TIC Contamination Ratio     0.005505
+TIC ID 44623916
+TIC Contamination Ratio     0.000978
+TIC ID 44737596
+TIC Contamination Ratio     2.6E-5
+TIC ID 44743153
+TIC Contamination Ratio     0.000819
+TIC ID 44790502
+TIC Contamination Ratio     0.032249
+TIC ID 44797681
+TIC Contamination Ratio     0.037507
+TIC ID 44890224
+TIC Contamination Ratio     0.001307
+TIC ID 46313508
+TIC Contamination Ratio     0.253865
+TIC ID 46630964
+TIC Contamination Ratio     0.014816
+TIC ID 47352608
+TIC Contamination Ratio     0.00076
+TIC ID 47380518
+TIC Contamination Ratio
+TIC ID 47626069
+TIC Contamination Ratio     0.027105
+TIC ID 47757785
+TIC Contamination Ratio     0.07816
+TIC ID 48499902
+TIC Contamination Ratio
+TIC ID 48507019
+TIC Contamination Ratio     0.072772
+TIC ID 48658291
+TIC Contamination Ratio     0.004896
+TIC ID 49534600
+TIC Contamination Ratio
+TIC ID 49701947
+TIC Contamination Ratio     0.04244
+TIC ID 49799894
+TIC Contamination Ratio     0.044956
+TIC ID 50189810
+TIC Contamination Ratio     0.053152
+TIC ID 50273697
+TIC Contamination Ratio     0.278337
+TIC ID 50758245
+TIC Contamination Ratio     0.001119
+TIC ID 50897998
+TIC Contamination Ratio
+TIC ID 51024887
+TIC Contamination Ratio     1.405162
+TIC ID 51155192
+TIC Contamination Ratio     0.393865
+TIC ID 51960132
+TIC Contamination Ratio     0.470512
+TIC ID 51961599
+TIC Contamination Ratio
+TIC ID 52280468
+TIC Contamination Ratio     0.021652
+TIC ID 52641430
+TIC Contamination Ratio
+TIC ID 53059882
+TIC Contamination Ratio     0.014471
+TIC ID 53178352
+TIC Contamination Ratio     0.004305
+TIC ID 54630229
+TIC Contamination Ratio
+TIC ID 55269690
+TIC Contamination Ratio     0.046601
+TIC ID 55404385
+TIC Contamination Ratio     0.003406
+TIC ID 55451784
+TIC Contamination Ratio     0.164046
+TIC ID 55497281
+TIC Contamination Ratio     0.009602
+TIC ID 55500860
+TIC Contamination Ratio     0.004277
+TIC ID 55524055
+TIC Contamination Ratio     0.010342
+TIC ID 55652785
+TIC Contamination Ratio     0.053727
+TIC ID 55659311
+TIC Contamination Ratio     0.019971
+TIC ID 55753802
+TIC Contamination Ratio     0.000679
+TIC ID 55999432
+TIC Contamination Ratio     0.003134
+TIC ID 56127811
+TIC Contamination Ratio
+TIC ID 57258016
+TIC Contamination Ratio     0.001117
+TIC ID 58467657
+TIC Contamination Ratio
+TIC ID 60479151
+TIC Contamination Ratio     0.034507
+TIC ID 60977396
+TIC Contamination Ratio     0.000364
+TIC ID 61490776
+TIC Contamination Ratio
+TIC ID 61724376
+TIC Contamination Ratio     0.024567
+TIC ID 61898904
+TIC Contamination Ratio     0.188042
+TIC ID 63427664
+TIC Contamination Ratio
+TIC ID 63451547
+TIC Contamination Ratio     0.248198
+TIC ID 63941711
+TIC Contamination Ratio
+TIC ID 64783257
+TIC Contamination Ratio     0.35992
+TIC ID 65479458
+TIC Contamination Ratio     0.001209
+TIC ID 66715008
+TIC Contamination Ratio     0.001597
+TIC ID 67474119
+TIC Contamination Ratio     0.000149
+TIC ID 67686223
+TIC Contamination Ratio     0.01411
+TIC ID 67707406
+TIC Contamination Ratio     0.002802
+TIC ID 67719432
+TIC Contamination Ratio     0.182663
+TIC ID 68032870
+TIC Contamination Ratio     0.192933
+TIC ID 68545734
+TIC Contamination Ratio     0.10797
+TIC ID 70442570
+TIC Contamination Ratio     0.000149
+TIC ID 71298511
+TIC Contamination Ratio     0.207142
+TIC ID 71612483
+TIC Contamination Ratio     0.00149
+TIC ID 72782654
+TIC Contamination Ratio     0.005921
+TIC ID 73201833
+TIC Contamination Ratio     0.019974
+TIC ID 74627376
+TIC Contamination Ratio
+TIC ID 76073981
+TIC Contamination Ratio     0.595069
+TIC ID 77158150
+TIC Contamination Ratio     0.267685
+TIC ID 77320223
+TIC Contamination Ratio     0.014386
+TIC ID 77545160
+TIC Contamination Ratio     0.001594
+TIC ID 77703308
+TIC Contamination Ratio     0.05624
+TIC ID 78076566
+TIC Contamination Ratio     0.683817
+TIC ID 78450017
+TIC Contamination Ratio     0.01873
+TIC ID 78568736
+TIC Contamination Ratio     0.02452
+TIC ID 78817217
+TIC Contamination Ratio
+TIC ID 79225651
+TIC Contamination Ratio     3.396628
+TIC ID 79247714
+TIC Contamination Ratio     0.216832
+TIC ID 79271943
+TIC Contamination Ratio     0.002747
+TIC ID 79283165
+TIC Contamination Ratio
+TIC ID 79403459
+TIC Contamination Ratio
+TIC ID 79548760
+TIC Contamination Ratio     0.001175
+TIC ID 80059889
+TIC Contamination Ratio     0.539325
+TIC ID 80254085
+TIC Contamination Ratio     0.037585
+TIC ID 80650858
+TIC Contamination Ratio
+TIC ID 80806861
+TIC Contamination Ratio     0.009173
+TIC ID 83222019
+TIC Contamination Ratio     0.134394
+TIC ID 85694057
+TIC Contamination Ratio     0.049982
+TIC ID 85711393
+TIC Contamination Ratio     0.512542
+TIC ID 86629981
+TIC Contamination Ratio     0.088397
+TIC ID 88465768
+TIC Contamination Ratio     7.4E-5
+TIC ID 88479623
+TIC Contamination Ratio     6.6E-5
+TIC ID 88994025
+TIC Contamination Ratio     0.002228
+TIC ID 89018905
+TIC Contamination Ratio     0.341086
+TIC ID 89258104
+TIC Contamination Ratio     0.012828
+TIC ID 89327422
+TIC Contamination Ratio     0.019837
+TIC ID 89358641
+TIC Contamination Ratio     0.001357
+TIC ID 89466504
+TIC Contamination Ratio     0.000941
+TIC ID 89787778
+TIC Contamination Ratio     0.003889
+TIC ID 90185615
+TIC Contamination Ratio     0.177725
+TIC ID 90322352
+TIC Contamination Ratio     0.239944
+TIC ID 90650244
+TIC Contamination Ratio
+TIC ID 91369561
+TIC Contamination Ratio     0.008184
+TIC ID 91448148
+TIC Contamination Ratio     0.008409
+TIC ID 91640647
+TIC Contamination Ratio     0.025578
+TIC ID 92132777
+TIC Contamination Ratio     0.887376
+TIC ID 92140619
+TIC Contamination Ratio     0.004221
+TIC ID 92349924
+TIC Contamination Ratio     0.010203
+TIC ID 92352620
+TIC Contamination Ratio     0.637895
+TIC ID 92364700
+TIC Contamination Ratio     0.02537
+TIC ID 92594505
+TIC Contamination Ratio     0.004137
+TIC ID 92628706
+TIC Contamination Ratio     0.000557
+TIC ID 92629355
+TIC Contamination Ratio     0.000903
+TIC ID 92861431
+TIC Contamination Ratio
+TIC ID 92877752
+TIC Contamination Ratio     0.002016
+TIC ID 92938279
+TIC Contamination Ratio     1.38573
+TIC ID 92938280
+TIC Contamination Ratio     1.13076
+TIC ID 92980022
+TIC Contamination Ratio
+TIC ID 93050630
+TIC Contamination Ratio
+TIC ID 93088834
+TIC Contamination Ratio     0.000829
+TIC ID 96799506
+TIC Contamination Ratio     0.037631
+TIC ID 97402522
+TIC Contamination Ratio
+TIC ID 97431593
+TIC Contamination Ratio     0.000445
+TIC ID 97486585
+TIC Contamination Ratio
+TIC ID 97797267
+TIC Contamination Ratio     0.031193
+TIC ID 98478039
+TIC Contamination Ratio
+TIC ID 99254945
+TIC Contamination Ratio     0.003933
+TIC ID 99465976
+TIC Contamination Ratio     0.009753
+TIC ID 99494149
+TIC Contamination Ratio
+TIC ID 99646802
+TIC Contamination Ratio     0.006079
+TIC ID 99725941
+TIC Contamination Ratio     0.003552
+TIC ID 99839685
+TIC Contamination Ratio     0.007128
+TIC ID 101070833
+TIC Contamination Ratio     0.002499
+TIC ID 101302325
+TIC Contamination Ratio     0.553579
+TIC ID 101497151
+TIC Contamination Ratio
+TIC ID 102929927
+TIC Contamination Ratio     0.001185
+TIC ID 106403786
+TIC Contamination Ratio     0.011331
+TIC ID 107548305
+TIC Contamination Ratio     0.007512
+TIC ID 112401201
+TIC Contamination Ratio
+TIC ID 113061684
+TIC Contamination Ratio     0.002273
+TIC ID 113567527
+TIC Contamination Ratio     0.165613
+TIC ID 114988852
+TIC Contamination Ratio
+TIC ID 115105140
+TIC Contamination Ratio     0.002497
+TIC ID 115105263
+TIC Contamination Ratio     0.005495
+TIC ID 115108198
+TIC Contamination Ratio
+TIC ID 115115136
+TIC Contamination Ratio     0.009587
+TIC ID 115150623
+TIC Contamination Ratio     0.004674
+TIC ID 115288764
+TIC Contamination Ratio     0.00049
+TIC ID 115507313
+TIC Contamination Ratio     0.05524
+TIC ID 116553919
+TIC Contamination Ratio
+TIC ID 116890331
+TIC Contamination Ratio     0.232861
+TIC ID 117515123
+TIC Contamination Ratio     9.6E-5
+TIC ID 117515674
+TIC Contamination Ratio     0.000282
+TIC ID 117544915
+TIC Contamination Ratio     0.003574
+TIC ID 117648603
+TIC Contamination Ratio
+TIC ID 118313102
+TIC Contamination Ratio     0.005502
+TIC ID 118389230
+TIC Contamination Ratio     0.007371
+TIC ID 119327278
+TIC Contamination Ratio     0.0013
+TIC ID 120315082
+TIC Contamination Ratio     0.149344
+TIC ID 120334442
+TIC Contamination Ratio     1.885669
+TIC ID 120472041
+TIC Contamination Ratio     0.099092
+TIC ID 120566395
+TIC Contamination Ratio     0.001171
+TIC ID 121007796
+TIC Contamination Ratio     0.62934
+TIC ID 121108244
+TIC Contamination Ratio     0.059337
+TIC ID 121134517
+TIC Contamination Ratio     0.000972
+TIC ID 121277143
+TIC Contamination Ratio
+TIC ID 121420805
+TIC Contamination Ratio     0.01133
+TIC ID 121475494
+TIC Contamination Ratio
+TIC ID 121568625
+TIC Contamination Ratio     0.003062
+TIC ID 121595243
+TIC Contamination Ratio
+TIC ID 122070918
+TIC Contamination Ratio     0.726105
+TIC ID 123036723
+TIC Contamination Ratio
+TIC ID 123042728
+TIC Contamination Ratio     0.00233
+TIC ID 123153249
+TIC Contamination Ratio
+TIC ID 123416563
+TIC Contamination Ratio     0.102368
+TIC ID 123573766
+TIC Contamination Ratio     0.271898
+TIC ID 123902605
+TIC Contamination Ratio     0.052098
+TIC ID 124106762
+TIC Contamination Ratio
+TIC ID 125174457
+TIC Contamination Ratio     0.004506
+TIC ID 125258133
+TIC Contamination Ratio     0.532275
+TIC ID 126564822
+TIC Contamination Ratio
+TIC ID 126602778
+TIC Contamination Ratio     0.012558
+TIC ID 126637765
+TIC Contamination Ratio     0.096121
+TIC ID 126659093
+TIC Contamination Ratio     0.063363
+TIC ID 126700850
+TIC Contamination Ratio     0.013066
+TIC ID 127420450
+TIC Contamination Ratio
+TIC ID 127843848
+TIC Contamination Ratio     0.524577
+TIC ID 127955334
+TIC Contamination Ratio     0.07142
+TIC ID 128886984
+TIC Contamination Ratio
+TIC ID 129268651
+TIC Contamination Ratio     2.475588
+TIC ID 129287469
+TIC Contamination Ratio     0.067517
+TIC ID 129764561
+TIC Contamination Ratio     0.001038
+TIC ID 129782747
+TIC Contamination Ratio     0.003174
+TIC ID 129810365
+TIC Contamination Ratio     0.000337
+TIC ID 130158363
+TIC Contamination Ratio     0.148604
+TIC ID 131081852
+TIC Contamination Ratio     0.025538
+TIC ID 131119300
+TIC Contamination Ratio     2.872196
+TIC ID 135085261
+TIC Contamination Ratio     0.002613
+TIC ID 136995510
+TIC Contamination Ratio     0.182006
+TIC ID 137860956
+TIC Contamination Ratio     0.04858
+TIC ID 138256675
+TIC Contamination Ratio     0.001521
+TIC ID 139061135
+TIC Contamination Ratio     0.015514
+TIC ID 139371600
+TIC Contamination Ratio     0.007667
+TIC ID 139468902
+TIC Contamination Ratio     0.001081
+TIC ID 139700621
+TIC Contamination Ratio     0.013453
+TIC ID 139701741
+TIC Contamination Ratio     0.004868
+TIC ID 139721086
+TIC Contamination Ratio     0.009866
+TIC ID 139732428
+TIC Contamination Ratio     0.001266
+TIC ID 139825840
+TIC Contamination Ratio
+TIC ID 139841210
+TIC Contamination Ratio     0.003107
+TIC ID 139845816
+TIC Contamination Ratio     0.002046
+TIC ID 139878414
+TIC Contamination Ratio
+TIC ID 140039144
+TIC Contamination Ratio     0.000954
+TIC ID 140044682
+TIC Contamination Ratio     0.000846
+TIC ID 140048219
+TIC Contamination Ratio
+TIC ID 140064648
+TIC Contamination Ratio
+TIC ID 140142451
+TIC Contamination Ratio     0.001495
+TIC ID 140209204
+TIC Contamination Ratio     0.000914
+TIC ID 140212820
+TIC Contamination Ratio     0.001777
+TIC ID 140659978
+TIC Contamination Ratio     3.970458
+TIC ID 140659980
+TIC Contamination Ratio     0.169946
+TIC ID 140690428
+TIC Contamination Ratio     0.005219
+TIC ID 140736015
+TIC Contamination Ratio     0.006357
+TIC ID 140801898
+TIC Contamination Ratio     0.069247
+TIC ID 140891597
+TIC Contamination Ratio     0.104611
+TIC ID 140893238
+TIC Contamination Ratio     0.005125
+TIC ID 141126559
+TIC Contamination Ratio     0.056714
+TIC ID 141127435
+TIC Contamination Ratio     0.005598
+TIC ID 141148940
+TIC Contamination Ratio     0.41161
+TIC ID 141268467
+TIC Contamination Ratio     0.00829
+TIC ID 141333573
+TIC Contamination Ratio     0.210214
+TIC ID 141411713
+TIC Contamination Ratio     0.00941
+TIC ID 141542585
+TIC Contamination Ratio     0.022133
+TIC ID 141606986
+TIC Contamination Ratio     0.013158
+TIC ID 141607553
+TIC Contamination Ratio     0.021535
+TIC ID 141610759
+TIC Contamination Ratio
+TIC ID 141622065
+TIC Contamination Ratio     0.047079
+TIC ID 141685465
+TIC Contamination Ratio     0.032022
+TIC ID 141770299
+TIC Contamination Ratio     0.001001
+TIC ID 141809359
+TIC Contamination Ratio
+TIC ID 141867895
+TIC Contamination Ratio     0.449078
+TIC ID 141914317
+TIC Contamination Ratio     0.037808
+TIC ID 141975903
+TIC Contamination Ratio     0.018699
+TIC ID 141975926
+TIC Contamination Ratio
+TIC ID 141978095
+TIC Contamination Ratio     0.044858
+TIC ID 142014932
+TIC Contamination Ratio     0.203883
+TIC ID 142018697
+TIC Contamination Ratio     0.005206
+TIC ID 142052876
+TIC Contamination Ratio     0.604393
+TIC ID 142080812
+TIC Contamination Ratio
+TIC ID 142105466
+TIC Contamination Ratio     0.009145
+TIC ID 142108949
+TIC Contamination Ratio
+TIC ID 142110536
+TIC Contamination Ratio     0.004803
+TIC ID 142148228
+TIC Contamination Ratio     0.03844
+TIC ID 142677613
+TIC Contamination Ratio     0.022533
+TIC ID 142783746
+TIC Contamination Ratio     0.007502
+TIC ID 142811934
+TIC Contamination Ratio     0.336999
+TIC ID 142875987
+TIC Contamination Ratio     0.091214
+TIC ID 142930937
+TIC Contamination Ratio
+TIC ID 142945544
+TIC Contamination Ratio     0.042151
+TIC ID 143350469
+TIC Contamination Ratio     0.448189
+TIC ID 143924219
+TIC Contamination Ratio     0.016124
+TIC ID 144155582
+TIC Contamination Ratio     0.03664
+TIC ID 144194304
+TIC Contamination Ratio     0.020596
+TIC ID 144201318
+TIC Contamination Ratio
+TIC ID 144458841
+TIC Contamination Ratio
+TIC ID 144462697
+TIC Contamination Ratio     0.037468
+TIC ID 144514566
+TIC Contamination Ratio     0.000199
+TIC ID 145151809
+TIC Contamination Ratio     0.036135
+TIC ID 145755099
+TIC Contamination Ratio     0.274397
+TIC ID 146344020
+TIC Contamination Ratio     0.044463
+TIC ID 146439804
+TIC Contamination Ratio     0.49213
+TIC ID 146520491
+TIC Contamination Ratio     0.000669
+TIC ID 146522930
+TIC Contamination Ratio     0.10641
+TIC ID 146559012
+TIC Contamination Ratio     0.93116
+TIC ID 146559015
+TIC Contamination Ratio
+TIC ID 146846569
+TIC Contamination Ratio     1.312873
+TIC ID 147083089
+TIC Contamination Ratio     0.005018
+TIC ID 147084337
+TIC Contamination Ratio
+TIC ID 147114002
+TIC Contamination Ratio     7.9E-5
+TIC ID 147207533
+TIC Contamination Ratio
+TIC ID 147302681
+TIC Contamination Ratio     0.027096
+TIC ID 147835092
+TIC Contamination Ratio     0.211635
+TIC ID 148274098
+TIC Contamination Ratio
+TIC ID 148305766
+TIC Contamination Ratio     0.022161
+TIC ID 148544875
+TIC Contamination Ratio     0.004107
+TIC ID 148612685
+TIC Contamination Ratio
+TIC ID 148781497
+TIC Contamination Ratio     0.01782
+TIC ID 148914726
+TIC Contamination Ratio     0.027086
+TIC ID 149121385
+TIC Contamination Ratio
+TIC ID 149175965
+TIC Contamination Ratio     0.03191
+TIC ID 149248196
+TIC Contamination Ratio
+TIC ID 149252961
+TIC Contamination Ratio
+TIC ID 149346418
+TIC Contamination Ratio
+TIC ID 149473467
+TIC Contamination Ratio     0.022428
+TIC ID 149573659
+TIC Contamination Ratio     0.017205
+TIC ID 149600376
+TIC Contamination Ratio     0.06194
+TIC ID 149629043
+TIC Contamination Ratio     0.165366
+TIC ID 149861542
+TIC Contamination Ratio     0.12297
+TIC ID 149926346
+TIC Contamination Ratio     0.205137
+TIC ID 150101472
+TIC Contamination Ratio     0.218957
+TIC ID 150101476
+TIC Contamination Ratio     1.756347
+TIC ID 150101799
+TIC Contamination Ratio     0.050996
+TIC ID 150143137
+TIC Contamination Ratio     0.002347
+TIC ID 150187916
+TIC Contamination Ratio     0.061752
+TIC ID 150300654
+TIC Contamination Ratio     0.096565
+TIC ID 150357064
+TIC Contamination Ratio     0.856381
+TIC ID 150357290
+TIC Contamination Ratio     0.033621
+TIC ID 150361911
+TIC Contamination Ratio     0.030059
+TIC ID 150429807
+TIC Contamination Ratio     0.00491
+TIC ID 150437899
+TIC Contamination Ratio     0.0053
+TIC ID 150440860
+TIC Contamination Ratio     0.00755
+TIC ID 150442264
+TIC Contamination Ratio
+TIC ID 150443185
+TIC Contamination Ratio     0.028859
+TIC ID 151826930
+TIC Contamination Ratio     0.048334
+TIC ID 152223725
+TIC Contamination Ratio     0.000861
+TIC ID 152507230
+TIC Contamination Ratio     0.038536
+TIC ID 153166843
+TIC Contamination Ratio     0.014621
+TIC ID 153742549
+TIC Contamination Ratio     0.003869
+TIC ID 153991851
+TIC Contamination Ratio     0.001532
+TIC ID 154067797
+TIC Contamination Ratio     0.006679
+TIC ID 154222671
+TIC Contamination Ratio     0.01313
+TIC ID 154339231
+TIC Contamination Ratio
+TIC ID 154511165
+TIC Contamination Ratio     0.202145
+TIC ID 155540827
+TIC Contamination Ratio     0.001499
+TIC ID 155884454
+TIC Contamination Ratio     0.669411
+TIC ID 155915231
+TIC Contamination Ratio     0.001208
+TIC ID 156067195
+TIC Contamination Ratio     0.005787
+TIC ID 156074324
+TIC Contamination Ratio     0.556768
+TIC ID 156758188
+TIC Contamination Ratio     0.01654
+TIC ID 156758257
+TIC Contamination Ratio     0.045865
+TIC ID 156832130
+TIC Contamination Ratio     0.002986
+TIC ID 157018051
+TIC Contamination Ratio     6.1E-5
+TIC ID 157273321
+TIC Contamination Ratio     0.001005
+TIC ID 157788279
+TIC Contamination Ratio     0.001621
+TIC ID 157889314
+TIC Contamination Ratio     0.049481
+TIC ID 157968186
+TIC Contamination Ratio     0.015993
+TIC ID 158016784
+TIC Contamination Ratio
+TIC ID 158183591
+TIC Contamination Ratio
+TIC ID 158218818
+TIC Contamination Ratio     0.134394
+TIC ID 158276780
+TIC Contamination Ratio     0.071924
+TIC ID 158321843
+TIC Contamination Ratio
+TIC ID 158334003
+TIC Contamination Ratio     0.039612
+TIC ID 158366841
+TIC Contamination Ratio     0.044546
+TIC ID 158450472
+TIC Contamination Ratio     0.015287
+TIC ID 158579379
+TIC Contamination Ratio     0.013631
+TIC ID 158849879
+TIC Contamination Ratio
+TIC ID 159105713
+TIC Contamination Ratio     0.103563
+TIC ID 159150734
+TIC Contamination Ratio
+TIC ID 159208074
+TIC Contamination Ratio     0.000222
+TIC ID 159444225
+TIC Contamination Ratio
+TIC ID 159464498
+TIC Contamination Ratio     0.00186
+TIC ID 159502560
+TIC Contamination Ratio
+TIC ID 159510983
+TIC Contamination Ratio     0.027162
+TIC ID 159628659
+TIC Contamination Ratio
+TIC ID 159723646
+TIC Contamination Ratio     0.096489
+TIC ID 159854359
+TIC Contamination Ratio     0.253615
+TIC ID 159871619
+TIC Contamination Ratio     0.026902
+TIC ID 160199003
+TIC Contamination Ratio     0.21868
+TIC ID 160328766
+TIC Contamination Ratio     0.006338
+TIC ID 160585813
+TIC Contamination Ratio     0.001832
+TIC ID 160618494
+TIC Contamination Ratio     2.79942
+TIC ID 160704414
+TIC Contamination Ratio
+TIC ID 160991022
+TIC Contamination Ratio     0.091767
+TIC ID 161083755
+TIC Contamination Ratio     0.489585
+TIC ID 161638713
+TIC Contamination Ratio
+TIC ID 161687311
+TIC Contamination Ratio     0.007525
+TIC ID 161744580
+TIC Contamination Ratio
+TIC ID 163377314
+TIC Contamination Ratio     0.071842
+TIC ID 164544018
+TIC Contamination Ratio     0.002956
+TIC ID 164554097
+TIC Contamination Ratio     0.043626
+TIC ID 164646288
+TIC Contamination Ratio     0.070047
+TIC ID 164677806
+TIC Contamination Ratio
+TIC ID 164782264
+TIC Contamination Ratio     0.151898
+TIC ID 164886585
+TIC Contamination Ratio
+TIC ID 165147482
+TIC Contamination Ratio     0.00174
+TIC ID 165456443
+TIC Contamination Ratio     0.011158
+TIC ID 165626871
+TIC Contamination Ratio     0.00325
+TIC ID 165721304
+TIC Contamination Ratio     0.006924
+TIC ID 165991532
+TIC Contamination Ratio
+TIC ID 166074503
+TIC Contamination Ratio     1.1E-5
+TIC ID 166319733
+TIC Contamination Ratio     0.317308
+TIC ID 166803688
+TIC Contamination Ratio
+TIC ID 166833476
+TIC Contamination Ratio     0.000477
+TIC ID 166874908
+TIC Contamination Ratio     0.000297
+TIC ID 166933255
+TIC Contamination Ratio     0.000108
+TIC ID 166968742
+TIC Contamination Ratio     0.012773
+TIC ID 166969516
+TIC Contamination Ratio     0.06909
+TIC ID 167005326
+TIC Contamination Ratio     0.04739
+TIC ID 167086201
+TIC Contamination Ratio
+TIC ID 167123437
+TIC Contamination Ratio
+TIC ID 167201539
+TIC Contamination Ratio     0.088706
+TIC ID 167251459
+TIC Contamination Ratio
+TIC ID 167303776
+TIC Contamination Ratio     0.025799
+TIC ID 167524561
+TIC Contamination Ratio     11.74519
+TIC ID 167526485
+TIC Contamination Ratio     0.005106
+TIC ID 167554898
+TIC Contamination Ratio     0.025707
+TIC ID 167656297
+TIC Contamination Ratio
+TIC ID 167673218
+TIC Contamination Ratio
+TIC ID 167692429
+TIC Contamination Ratio     0.062032
+TIC ID 167717848
+TIC Contamination Ratio
+TIC ID 167717852
+TIC Contamination Ratio     0.539829
+TIC ID 167719897
+TIC Contamination Ratio     0.281947
+TIC ID 167747439
+TIC Contamination Ratio     0.001653
+TIC ID 167756615
+TIC Contamination Ratio     0.021953
+TIC ID 167792080
+TIC Contamination Ratio     0.213876
+TIC ID 167891342
+TIC Contamination Ratio     0.087957
+TIC ID 168191566
+TIC Contamination Ratio     0.044215
+TIC ID 168674931
+TIC Contamination Ratio     7.8E-5
+TIC ID 168675489
+TIC Contamination Ratio     0.016687
+TIC ID 168696027
+TIC Contamination Ratio     0.003137
+TIC ID 168697816
+TIC Contamination Ratio     0.181811
+TIC ID 169168102
+TIC Contamination Ratio
+TIC ID 169316288
+TIC Contamination Ratio     0.030275
+TIC ID 169532543
+TIC Contamination Ratio     0.008185
+TIC ID 169573910
+TIC Contamination Ratio
+TIC ID 169662927
+TIC Contamination Ratio
+TIC ID 170246850
+TIC Contamination Ratio     0.255718
+TIC ID 170265784
+TIC Contamination Ratio
+TIC ID 170516068
+TIC Contamination Ratio     0.002667
+TIC ID 170729895
+TIC Contamination Ratio     0.000981
+TIC ID 172742334
+TIC Contamination Ratio     0.100227
+TIC ID 173038281
+TIC Contamination Ratio     0.023609
+TIC ID 173077938
+TIC Contamination Ratio     0.040221
+TIC ID 173432542
+TIC Contamination Ratio     0.128002
+TIC ID 175182754
+TIC Contamination Ratio
+TIC ID 175302441
+TIC Contamination Ratio     0.013212
+TIC ID 175400938
+TIC Contamination Ratio     0.000765
+TIC ID 175402069
+TIC Contamination Ratio     0.004651
+TIC ID 176252796
+TIC Contamination Ratio
+TIC ID 176406202
+TIC Contamination Ratio     0.022196
+TIC ID 176910080
+TIC Contamination Ratio     0.013582
+TIC ID 177077475
+TIC Contamination Ratio     0.102602
+TIC ID 177258700
+TIC Contamination Ratio     0.104217
+TIC ID 177308817
+TIC Contamination Ratio
+TIC ID 177310620
+TIC Contamination Ratio     0.211972
+TIC ID 177441630
+TIC Contamination Ratio
+TIC ID 177961519
+TIC Contamination Ratio     0.012451
+TIC ID 178171080
+TIC Contamination Ratio
+TIC ID 178242590
+TIC Contamination Ratio     0.001297
+TIC ID 178284730
+TIC Contamination Ratio     0.15545
+TIC ID 178352046
+TIC Contamination Ratio     0.000523
+TIC ID 178858648
+TIC Contamination Ratio     0.005236
+TIC ID 178938437
+TIC Contamination Ratio     0.008369
+TIC ID 179040607
+TIC Contamination Ratio     0.189454
+TIC ID 179295564
+TIC Contamination Ratio     0.011449
+TIC ID 179368346
+TIC Contamination Ratio     0.309892
+TIC ID 179623765
+TIC Contamination Ratio     0.230791
+TIC ID 179637067
+TIC Contamination Ratio
+TIC ID 179637488
+TIC Contamination Ratio
+TIC ID 180412528
+TIC Contamination Ratio
+TIC ID 181062415
+TIC Contamination Ratio
+TIC ID 189349514
+TIC Contamination Ratio     0.165312
+TIC ID 193774939
+TIC Contamination Ratio     0.005109
+TIC ID 193831684
+TIC Contamination Ratio     1.420441
+TIC ID 193948188
+TIC Contamination Ratio     0.020066
+TIC ID 193971913
+TIC Contamination Ratio     0.30919
+TIC ID 193994472
+TIC Contamination Ratio     0.422537
+TIC ID 194025647
+TIC Contamination Ratio     2.781918
+TIC ID 196815186
+TIC Contamination Ratio     1.278052
+TIC ID 196920546
+TIC Contamination Ratio     0.44059
+TIC ID 197933923
+TIC Contamination Ratio     2.0E-6
+TIC ID 198006960
+TIC Contamination Ratio     0.00331
+TIC ID 198011271
+TIC Contamination Ratio     0.016355
+TIC ID 198037741
+TIC Contamination Ratio     0.015658
+TIC ID 198076334
+TIC Contamination Ratio     4.2E-5
+TIC ID 198109209
+TIC Contamination Ratio     0.005927
+TIC ID 198240299
+TIC Contamination Ratio
+TIC ID 198242676
+TIC Contamination Ratio     2.993274
+TIC ID 198242678
+TIC Contamination Ratio
+TIC ID 198280388
+TIC Contamination Ratio     0.142472
+TIC ID 198354443
+TIC Contamination Ratio     0.05738
+TIC ID 198358825
+TIC Contamination Ratio     0.005862
+TIC ID 198366673
+TIC Contamination Ratio     0.004376
+TIC ID 198388252
+TIC Contamination Ratio     0.016661
+TIC ID 198408416
+TIC Contamination Ratio     0.005802
+TIC ID 198418712
+TIC Contamination Ratio     0.000646
+TIC ID 198457457
+TIC Contamination Ratio     0.007086
+TIC ID 198537349
+TIC Contamination Ratio     0.00041
+TIC ID 198555959
+TIC Contamination Ratio     0.133614
+TIC ID 199420503
+TIC Contamination Ratio     0.101175
+TIC ID 199661915
+TIC Contamination Ratio     0.000468
+TIC ID 199662929
+TIC Contamination Ratio     0.009661
+TIC ID 199688293
+TIC Contamination Ratio     0.062879
+TIC ID 199688409
+TIC Contamination Ratio     0.00066
+TIC ID 199688472
+TIC Contamination Ratio     0.04959
+TIC ID 199709055
+TIC Contamination Ratio     0.001279
+TIC ID 199716496
+TIC Contamination Ratio     0.031579
+TIC ID 200297691
+TIC Contamination Ratio
+TIC ID 200363295
+TIC Contamination Ratio     0.811168
+TIC ID 200368010
+TIC Contamination Ratio     0.062578
+TIC ID 200373531
+TIC Contamination Ratio     0.033318
+TIC ID 200375020
+TIC Contamination Ratio     0.046287
+TIC ID 200440175
+TIC Contamination Ratio     0.016677
+TIC ID 200440270
+TIC Contamination Ratio     0.147745
+TIC ID 201186294
+TIC Contamination Ratio     0.055926
+TIC ID 201291281
+TIC Contamination Ratio
+TIC ID 201747686
+TIC Contamination Ratio     0.002009
+TIC ID 202299805
+TIC Contamination Ratio     0.002162
+TIC ID 202442974
+TIC Contamination Ratio     0.000146
+TIC ID 202444594
+TIC Contamination Ratio
+TIC ID 202490797
+TIC Contamination Ratio     5.0E-6
+TIC ID 202839485
+TIC Contamination Ratio     0.118731
+TIC ID 207385593
+TIC Contamination Ratio     0.001334
+TIC ID 207394908
+TIC Contamination Ratio     0.025029
+TIC ID 207398432
+TIC Contamination Ratio
+TIC ID 211116547
+TIC Contamination Ratio
+TIC ID 211215485
+TIC Contamination Ratio     0.025469
+TIC ID 213067604
+TIC Contamination Ratio     0.024259
+TIC ID 218988566
+TIC Contamination Ratio     0.037386
+TIC ID 219096494
+TIC Contamination Ratio     0.054145
+TIC ID 219107776
+TIC Contamination Ratio
+TIC ID 219154792
+TIC Contamination Ratio     0.000567
+TIC ID 219173590
+TIC Contamination Ratio     0.000242
+TIC ID 219176881
+TIC Contamination Ratio     0.074766
+TIC ID 219201178
+TIC Contamination Ratio     0.004156
+TIC ID 219203188
+TIC Contamination Ratio
+TIC ID 219222201
+TIC Contamination Ratio     0.000236
+TIC ID 219234021
+TIC Contamination Ratio     0.00017
+TIC ID 219244444
+TIC Contamination Ratio     0.010601
+TIC ID 219345200
+TIC Contamination Ratio     0.003822
+TIC ID 219346326
+TIC Contamination Ratio     0.157249
+TIC ID 219362976
+TIC Contamination Ratio     0.003908
+TIC ID 219373406
+TIC Contamination Ratio     0.185774
+TIC ID 219389540
+TIC Contamination Ratio     0.006787
+TIC ID 219421171
+TIC Contamination Ratio     0.148196
+TIC ID 219435542
+TIC Contamination Ratio     0.136414
+TIC ID 219738202
+TIC Contamination Ratio     0.130569
+TIC ID 219750638
+TIC Contamination Ratio     0.003184
+TIC ID 219771660
+TIC Contamination Ratio     0.07997
+TIC ID 219773223
+TIC Contamination Ratio     0.004027
+TIC ID 219790151
+TIC Contamination Ratio
+TIC ID 219795383
+TIC Contamination Ratio
+TIC ID 219859691
+TIC Contamination Ratio
+TIC ID 219893630
+TIC Contamination Ratio     0.004757
+TIC ID 219900027
+TIC Contamination Ratio     0.004275
+TIC ID 219927211
+TIC Contamination Ratio     0.140934
+TIC ID 220015845
+TIC Contamination Ratio     0.088456
+TIC ID 220042007
+TIC Contamination Ratio     0.001229
+TIC ID 220082557
+TIC Contamination Ratio
+TIC ID 220389612
+TIC Contamination Ratio     0.012837
+TIC ID 220391605
+TIC Contamination Ratio     0.025839
+TIC ID 220397947
+TIC Contamination Ratio     0.018161
+TIC ID 220402294
+TIC Contamination Ratio     0.090971
+TIC ID 220416446
+TIC Contamination Ratio     0.003255
+TIC ID 220420534
+TIC Contamination Ratio     0.389705
+TIC ID 220430912
+TIC Contamination Ratio
+TIC ID 220474209
+TIC Contamination Ratio     0.001219
+TIC ID 220521199
+TIC Contamination Ratio     0.000175
+TIC ID 224308601
+TIC Contamination Ratio     1.081016
+TIC ID 224605072
+TIC Contamination Ratio     0.003883
+TIC ID 224605859
+TIC Contamination Ratio
+TIC ID 224606205
+TIC Contamination Ratio
+TIC ID 229476285
+TIC Contamination Ratio     0.147127
+TIC ID 229480487
+TIC Contamination Ratio     0.008127
+TIC ID 229495981
+TIC Contamination Ratio     0.0265
+TIC ID 229510866
+TIC Contamination Ratio     0.010072
+TIC ID 229585542
+TIC Contamination Ratio     0.074391
+TIC ID 229687624
+TIC Contamination Ratio     0.000752
+TIC ID 229689154
+TIC Contamination Ratio     0.2359
+TIC ID 229740848
+TIC Contamination Ratio     0.154192
+TIC ID 229751802
+TIC Contamination Ratio     0.001179
+TIC ID 229751806
+TIC Contamination Ratio     0.241524
+TIC ID 229771234
+TIC Contamination Ratio     0.505146
+TIC ID 229777486
+TIC Contamination Ratio     0.000677
+TIC ID 229804573
+TIC Contamination Ratio     0.000157
+TIC ID 229810745
+TIC Contamination Ratio     0.039209
+TIC ID 229910322
+TIC Contamination Ratio     0.026
+TIC ID 229913521
+TIC Contamination Ratio     0.02569
+TIC ID 229914020
+TIC Contamination Ratio     0.059239
+TIC ID 229938859
+TIC Contamination Ratio     0.024901
+TIC ID 229975095
+TIC Contamination Ratio
+TIC ID 230017324
+TIC Contamination Ratio     1.204019
+TIC ID 230063769
+TIC Contamination Ratio     0.001041
+TIC ID 230065962
+TIC Contamination Ratio     0.002383
+TIC ID 230086768
+TIC Contamination Ratio     0.000215
+TIC ID 230114503
+TIC Contamination Ratio     0.046912
+TIC ID 230273344
+TIC Contamination Ratio     0.012854
+TIC ID 230386284
+TIC Contamination Ratio
+TIC ID 230955191
+TIC Contamination Ratio     0.007108
+TIC ID 231075361
+TIC Contamination Ratio     0.031185
+TIC ID 231093356
+TIC Contamination Ratio     0.036288
+TIC ID 231292500
+TIC Contamination Ratio     0.002272
+TIC ID 231714759
+TIC Contamination Ratio     0.002278
+TIC ID 231809798
+TIC Contamination Ratio     0.085674
+TIC ID 231822771
+TIC Contamination Ratio     0.020411
+TIC ID 231922417
+TIC Contamination Ratio
+TIC ID 231972938
+TIC Contamination Ratio     0.026134
+TIC ID 231973885
+TIC Contamination Ratio     0.011911
+TIC ID 232030067
+TIC Contamination Ratio     0.082138
+TIC ID 232572560
+TIC Contamination Ratio     0.00443
+TIC ID 232629077
+TIC Contamination Ratio     0.003618
+TIC ID 232681393
+TIC Contamination Ratio     0.01264
+TIC ID 233006806
+TIC Contamination Ratio     0.056769
+TIC ID 233060434
+TIC Contamination Ratio     0.37434
+TIC ID 233195058
+TIC Contamination Ratio
+TIC ID 233207585
+TIC Contamination Ratio     0.004012
+TIC ID 233211759
+TIC Contamination Ratio     0.022756
+TIC ID 233233639
+TIC Contamination Ratio     0.007082
+TIC ID 233390838
+TIC Contamination Ratio     0.011414
+TIC ID 233397725
+TIC Contamination Ratio     0.064778
+TIC ID 233460141
+TIC Contamination Ratio
+TIC ID 233524881
+TIC Contamination Ratio     0.058314
+TIC ID 233531814
+TIC Contamination Ratio
+TIC ID 233532554
+TIC Contamination Ratio     0.009098
+TIC ID 233544319
+TIC Contamination Ratio     0.316459
+TIC ID 233569141
+TIC Contamination Ratio     0.001162
+TIC ID 233659263
+TIC Contamination Ratio     0.007861
+TIC ID 233679640
+TIC Contamination Ratio
+TIC ID 233684437
+TIC Contamination Ratio     0.029306
+TIC ID 233720276
+TIC Contamination Ratio     0.014871
+TIC ID 233722938
+TIC Contamination Ratio     0.123246
+TIC ID 233738458
+TIC Contamination Ratio     0.020367
+TIC ID 234211934
+TIC Contamination Ratio     0.12721
+TIC ID 234386436
+TIC Contamination Ratio
+TIC ID 234451000
+TIC Contamination Ratio
+TIC ID 235073221
+TIC Contamination Ratio     0.001338
+TIC ID 235598526
+TIC Contamination Ratio     0.469219
+TIC ID 235666667
+TIC Contamination Ratio     0.002484
+TIC ID 235718636
+TIC Contamination Ratio     0.051531
+TIC ID 236865152
+TIC Contamination Ratio     0.010894
+TIC ID 236973844
+TIC Contamination Ratio     0.000673
+TIC ID 237069277
+TIC Contamination Ratio     0.049916
+TIC ID 237104103
+TIC Contamination Ratio     0.001912
+TIC ID 237200747
+TIC Contamination Ratio     0.03495
+TIC ID 237234024
+TIC Contamination Ratio     0.070473
+TIC ID 237277760
+TIC Contamination Ratio     0.009563
+TIC ID 237278994
+TIC Contamination Ratio     0.30463
+TIC ID 237290473
+TIC Contamination Ratio
+TIC ID 237917228
+TIC Contamination Ratio     0.000658
+TIC ID 237918394
+TIC Contamination Ratio     0.000746
+TIC ID 237941053
+TIC Contamination Ratio     0.005023
+TIC ID 238162237
+TIC Contamination Ratio     0.200649
+TIC ID 238776175
+TIC Contamination Ratio     0.033226
+TIC ID 238892775
+TIC Contamination Ratio
+TIC ID 238896417
+TIC Contamination Ratio     0.006246
+TIC ID 238914431
+TIC Contamination Ratio     0.002186
+TIC ID 238917338
+TIC Contamination Ratio
+TIC ID 240931244
+TIC Contamination Ratio     0.004595
+TIC ID 241078868
+TIC Contamination Ratio     0.23946
+TIC ID 241751294
+TIC Contamination Ratio     0.005521
+TIC ID 241843363
+TIC Contamination Ratio     0.011833
+TIC ID 242530449
+TIC Contamination Ratio     0.00156
+TIC ID 242944454
+TIC Contamination Ratio     0.005022
+TIC ID 243248327
+TIC Contamination Ratio     0.015428
+TIC ID 243319567
+TIC Contamination Ratio     0.019286
+TIC ID 244207973
+TIC Contamination Ratio     0.061761
+TIC ID 244208023
+TIC Contamination Ratio     0.025576
+TIC ID 244865631
+TIC Contamination Ratio     5.863691
+TIC ID 245035219
+TIC Contamination Ratio
+TIC ID 245863693
+TIC Contamination Ratio     0.181252
+TIC ID 246745789
+TIC Contamination Ratio     0.019022
+TIC ID 247160445
+TIC Contamination Ratio     7.360193
+TIC ID 248399337
+TIC Contamination Ratio     0.005204
+TIC ID 248403190
+TIC Contamination Ratio     0.35553
+TIC ID 248410138
+TIC Contamination Ratio     0.005419
+TIC ID 248990782
+TIC Contamination Ratio     0.00648
+TIC ID 249943198
+TIC Contamination Ratio     0.003603
+TIC ID 250195155
+TIC Contamination Ratio     0.002043
+TIC ID 250196734
+TIC Contamination Ratio     0.00582
+TIC ID 250453538
+TIC Contamination Ratio     0.026115
+TIC ID 252096958
+TIC Contamination Ratio     0.072517
+TIC ID 252109307
+TIC Contamination Ratio     3.684278
+TIC ID 252791409
+TIC Contamination Ratio     8.0E-6
+TIC ID 253832770
+TIC Contamination Ratio     0.468974
+TIC ID 253844234
+TIC Contamination Ratio     0.602567
+TIC ID 254258206
+TIC Contamination Ratio     0.012994
+TIC ID 254278612
+TIC Contamination Ratio     0.000505
+TIC ID 255552705
+TIC Contamination Ratio
+TIC ID 255565860
+TIC Contamination Ratio     0.065027
+TIC ID 255586667
+TIC Contamination Ratio     0.005425
+TIC ID 255700967
+TIC Contamination Ratio     0.008021
+TIC ID 255806138
+TIC Contamination Ratio     6.0E-5
+TIC ID 255921197
+TIC Contamination Ratio     0.015016
+TIC ID 255993777
+TIC Contamination Ratio     0.024352
+TIC ID 256298934
+TIC Contamination Ratio     0.097721
+TIC ID 256327585
+TIC Contamination Ratio     0.021926
+TIC ID 256640561
+TIC Contamination Ratio     0.004958
+TIC ID 256775514
+TIC Contamination Ratio     0.001904
+TIC ID 257648522
+TIC Contamination Ratio     0.016024
+TIC ID 258351350
+TIC Contamination Ratio     0.003683
+TIC ID 258773798
+TIC Contamination Ratio     0.69302
+TIC ID 258799793
+TIC Contamination Ratio     0.066787
+TIC ID 258923466
+TIC Contamination Ratio     0.029271
+TIC ID 259126645
+TIC Contamination Ratio     0.004306
+TIC ID 259128582
+TIC Contamination Ratio     0.44624
+TIC ID 259373684
+TIC Contamination Ratio     0.126592
+TIC ID 259408109
+TIC Contamination Ratio     0.001789
+TIC ID 259701720
+TIC Contamination Ratio     0.016379
+TIC ID 259850442
+TIC Contamination Ratio
+TIC ID 259967623
+TIC Contamination Ratio     0.024018
+TIC ID 260003467
+TIC Contamination Ratio     0.124919
+TIC ID 260131665
+TIC Contamination Ratio
+TIC ID 260132330
+TIC Contamination Ratio     0.115516
+TIC ID 260161144
+TIC Contamination Ratio
+TIC ID 260162199
+TIC Contamination Ratio     0.024265
+TIC ID 260239481
+TIC Contamination Ratio     0.003672
+TIC ID 260304296
+TIC Contamination Ratio     0.80047
+TIC ID 260352096
+TIC Contamination Ratio
+TIC ID 260370454
+TIC Contamination Ratio     0.010605
+TIC ID 260502102
+TIC Contamination Ratio     0.003745
+TIC ID 260504147
+TIC Contamination Ratio
+TIC ID 260506296
+TIC Contamination Ratio     0.012671
+TIC ID 260654645
+TIC Contamination Ratio     0.083217
+TIC ID 260659986
+TIC Contamination Ratio     0.018127
+TIC ID 260709448
+TIC Contamination Ratio     0.005804
+TIC ID 260772408
+TIC Contamination Ratio     0.002375
+TIC ID 260778617
+TIC Contamination Ratio     0.122012
+TIC ID 261105201
+TIC Contamination Ratio     0.003197
+TIC ID 261136000
+TIC Contamination Ratio
+TIC ID 261205462
+TIC Contamination Ratio     0.001506
+TIC ID 261332760
+TIC Contamination Ratio     0.038385
+TIC ID 261335113
+TIC Contamination Ratio     0.007666
+TIC ID 261646556
+TIC Contamination Ratio     0.0196
+TIC ID 261656371
+TIC Contamination Ratio     0.063547
+TIC ID 261749149
+TIC Contamination Ratio     0.001193
+TIC ID 261863003
+TIC Contamination Ratio
+TIC ID 262434790
+TIC Contamination Ratio     0.026513
+TIC ID 262465161
+TIC Contamination Ratio     0.002309
+TIC ID 262613883
+TIC Contamination Ratio     0.055172
+TIC ID 263074592
+TIC Contamination Ratio
+TIC ID 263635510
+TIC Contamination Ratio     0.243486
+TIC ID 264180664
+TIC Contamination Ratio     0.029082
+TIC ID 264537668
+TIC Contamination Ratio     0.500916
+TIC ID 264540478
+TIC Contamination Ratio
+TIC ID 264594193
+TIC Contamination Ratio     0.794405
+TIC ID 264688425
+TIC Contamination Ratio     0.034714
+TIC ID 265613590
+TIC Contamination Ratio     0.000186
+TIC ID 266195807
+TIC Contamination Ratio     0.003802
+TIC ID 266610248
+TIC Contamination Ratio
+TIC ID 266845051
+TIC Contamination Ratio     0.01973
+TIC ID 267542072
+TIC Contamination Ratio     0.002014
+TIC ID 268289462
+TIC Contamination Ratio     0.16591
+TIC ID 268772301
+TIC Contamination Ratio
+TIC ID 269411609
+TIC Contamination Ratio     0.285976
+TIC ID 269609504
+TIC Contamination Ratio     0.083667
+TIC ID 269696438
+TIC Contamination Ratio     0.072594
+TIC ID 269762258
+TIC Contamination Ratio     0.006753
+TIC ID 270341486
+TIC Contamination Ratio
+TIC ID 270491267
+TIC Contamination Ratio     0.003205
+TIC ID 270491865
+TIC Contamination Ratio     0.511021
+TIC ID 270665642
+TIC Contamination Ratio
+TIC ID 271013213
+TIC Contamination Ratio     0.0247
+TIC ID 271040768
+TIC Contamination Ratio
+TIC ID 271529021
+TIC Contamination Ratio
+TIC ID 271547896
+TIC Contamination Ratio     0.066752
+TIC ID 271550131
+TIC Contamination Ratio     0.032045
+TIC ID 271596290
+TIC Contamination Ratio     0.029291
+TIC ID 271763731
+TIC Contamination Ratio     0.067183
+TIC ID 271773721
+TIC Contamination Ratio     0.166981
+TIC ID 271900514
+TIC Contamination Ratio     0.038195
+TIC ID 271900941
+TIC Contamination Ratio
+TIC ID 272086159
+TIC Contamination Ratio     0.017115
+TIC ID 272086869
+TIC Contamination Ratio     0.262579
+TIC ID 272179220
+TIC Contamination Ratio
+TIC ID 272650576
+TIC Contamination Ratio     0.001055
+TIC ID 272839425
+TIC Contamination Ratio     0.445459
+TIC ID 272944291
+TIC Contamination Ratio     0.259387
+TIC ID 273043307
+TIC Contamination Ratio     0.113182
+TIC ID 273792220
+TIC Contamination Ratio     0.000917
+TIC ID 273861698
+TIC Contamination Ratio     0.023114
+TIC ID 273885188
+TIC Contamination Ratio
+TIC ID 274039489
+TIC Contamination Ratio
+TIC ID 274088422
+TIC Contamination Ratio     0.064473
+TIC ID 274129522
+TIC Contamination Ratio     0.160984
+TIC ID 274135602
+TIC Contamination Ratio
+TIC ID 274238240
+TIC Contamination Ratio     0.014352
+TIC ID 274509791
+TIC Contamination Ratio     0.000647
+TIC ID 274551602
+TIC Contamination Ratio     0.023435
+TIC ID 275367529
+TIC Contamination Ratio     0.098904
+TIC ID 275489982
+TIC Contamination Ratio     0.113289
+TIC ID 276232142
+TIC Contamination Ratio     0.008428
+TIC ID 276456395
+TIC Contamination Ratio     0.021295
+TIC ID 276935987
+TIC Contamination Ratio
+TIC ID 277943745
+TIC Contamination Ratio     0.05825
+TIC ID 278003738
+TIC Contamination Ratio     0.084495
+TIC ID 278180434
+TIC Contamination Ratio     0.004651
+TIC ID 278270436
+TIC Contamination Ratio
+TIC ID 278352995
+TIC Contamination Ratio     0.022536
+TIC ID 278683641
+TIC Contamination Ratio     0.004753
+TIC ID 278731274
+TIC Contamination Ratio     0.030461
+TIC ID 278780044
+TIC Contamination Ratio     0.023352
+TIC ID 278825952
+TIC Contamination Ratio     0.002144
+TIC ID 278863150
+TIC Contamination Ratio
+TIC ID 278895603
+TIC Contamination Ratio     0.270239
+TIC ID 278956474
+TIC Contamination Ratio     0.012207
+TIC ID 278988794
+TIC Contamination Ratio
+TIC ID 279081935
+TIC Contamination Ratio     0.141795
+TIC ID 279087522
+TIC Contamination Ratio     0.094484
+TIC ID 279089927
+TIC Contamination Ratio     0.025303
+TIC ID 279156705
+TIC Contamination Ratio     0.063148
+TIC ID 279202406
+TIC Contamination Ratio     0.108151
+TIC ID 279254042
+TIC Contamination Ratio     0.002331
+TIC ID 279401848
+TIC Contamination Ratio     0.00531
+TIC ID 279462605
+TIC Contamination Ratio     0.076896
+TIC ID 279569707
+TIC Contamination Ratio     0.043304
+TIC ID 279569718
+TIC Contamination Ratio     0.167679
+TIC ID 279570232
+TIC Contamination Ratio     0.016544
+TIC ID 279572906
+TIC Contamination Ratio     0.005903
+TIC ID 279615979
+TIC Contamination Ratio     0.521353
+TIC ID 279741942
+TIC Contamination Ratio     7.4E-5
+TIC ID 279955276
+TIC Contamination Ratio     0.124964
+TIC ID 280033934
+TIC Contamination Ratio     0.126174
+TIC ID 280564453
+TIC Contamination Ratio     0.06478
+TIC ID 280685089
+TIC Contamination Ratio     0.944997
+TIC ID 281114303
+TIC Contamination Ratio     0.426645
+TIC ID 281498280
+TIC Contamination Ratio     0.116518
+TIC ID 281577119
+TIC Contamination Ratio     0.060865
+TIC ID 282270717
+TIC Contamination Ratio     0.016928
+TIC ID 282925798
+TIC Contamination Ratio     0.041393
+TIC ID 283677584
+TIC Contamination Ratio     0.002423
+TIC ID 283987930
+TIC Contamination Ratio     0.008982
+TIC ID 284050381
+TIC Contamination Ratio     5.215021
+TIC ID 284364590
+TIC Contamination Ratio     0.06818
+TIC ID 284445951
+TIC Contamination Ratio
+TIC ID 284595199
+TIC Contamination Ratio
+TIC ID 284611896
+TIC Contamination Ratio
+TIC ID 284613090
+TIC Contamination Ratio     0.014244
+TIC ID 285181196
+TIC Contamination Ratio     0.080695
+TIC ID 285516033
+TIC Contamination Ratio     0.136575
+TIC ID 286169292
+TIC Contamination Ratio     0.001211
+TIC ID 286358203
+TIC Contamination Ratio     0.002924
+TIC ID 286956931
+TIC Contamination Ratio
+TIC ID 287151976
+TIC Contamination Ratio     0.004749
+TIC ID 287256222
+TIC Contamination Ratio     0.003438
+TIC ID 287326187
+TIC Contamination Ratio
+TIC ID 287328866
+TIC Contamination Ratio     0.156809
+TIC ID 287351976
+TIC Contamination Ratio     0.118624
+TIC ID 288312840
+TIC Contamination Ratio     0.148546
+TIC ID 288346083
+TIC Contamination Ratio     0.001811
+TIC ID 288471108
+TIC Contamination Ratio     0.009617
+TIC ID 288517585
+TIC Contamination Ratio     0.009445
+TIC ID 288778712
+TIC Contamination Ratio     0.018659
+TIC ID 289166536
+TIC Contamination Ratio     0.053577
+TIC ID 289370888
+TIC Contamination Ratio     0.463322
+TIC ID 289379110
+TIC Contamination Ratio     0.30631
+TIC ID 291340620
+TIC Contamination Ratio     0.748336
+TIC ID 291385340
+TIC Contamination Ratio     0.027612
+TIC ID 291466214
+TIC Contamination Ratio     0.003226
+TIC ID 293151358
+TIC Contamination Ratio
+TIC ID 293345927
+TIC Contamination Ratio     0.026258
+TIC ID 293480903
+TIC Contamination Ratio     0.142784
+TIC ID 293525651
+TIC Contamination Ratio     0.005971
+TIC ID 294092960
+TIC Contamination Ratio     3.15659
+TIC ID 294092966
+TIC Contamination Ratio     0.180443
+TIC ID 294200378
+TIC Contamination Ratio
+TIC ID 294206429
+TIC Contamination Ratio     0.001425
+TIC ID 294206967
+TIC Contamination Ratio
+TIC ID 294261093
+TIC Contamination Ratio
+TIC ID 294273900
+TIC Contamination Ratio     0.001509
+TIC ID 294327312
+TIC Contamination Ratio     0.017009
+TIC ID 294396726
+TIC Contamination Ratio     0.007476
+TIC ID 294784522
+TIC Contamination Ratio     0.040409
+TIC ID 294929861
+TIC Contamination Ratio     0.128507
+TIC ID 296184440
+TIC Contamination Ratio     1.408183
+TIC ID 296638064
+TIC Contamination Ratio     0.013222
+TIC ID 298246821
+TIC Contamination Ratio     0.000358
+TIC ID 298541138
+TIC Contamination Ratio     0.028659
+TIC ID 298661555
+TIC Contamination Ratio     0.014773
+TIC ID 298666271
+TIC Contamination Ratio     0.018957
+TIC ID 299160301
+TIC Contamination Ratio     0.006156
+TIC ID 299219025
+TIC Contamination Ratio
+TIC ID 299443090
+TIC Contamination Ratio     0.06998
+TIC ID 299702740
+TIC Contamination Ratio     0.190064
+TIC ID 299778628
+TIC Contamination Ratio     0.035922
+TIC ID 299899924
+TIC Contamination Ratio     0.084143
+TIC ID 299906906
+TIC Contamination Ratio
+TIC ID 299948201
+TIC Contamination Ratio     0.304944
+TIC ID 300560295
+TIC Contamination Ratio     0.046097
+TIC ID 300654002
+TIC Contamination Ratio     0.013608
+TIC ID 300871545
+TIC Contamination Ratio     0.008887
+TIC ID 301022235
+TIC Contamination Ratio     0.003839
+TIC ID 301264684
+TIC Contamination Ratio     0.017669
+TIC ID 301323571
+TIC Contamination Ratio
+TIC ID 301741204
+TIC Contamination Ratio     0.507468
+TIC ID 301859899
+TIC Contamination Ratio     0.080458
+TIC ID 301956407
+TIC Contamination Ratio     0.155313
+TIC ID 302136704
+TIC Contamination Ratio     0.054922
+TIC ID 302146957
+TIC Contamination Ratio     0.170185
+TIC ID 302384263
+TIC Contamination Ratio     3.174382
+TIC ID 302386283
+TIC Contamination Ratio
+TIC ID 302625238
+TIC Contamination Ratio     0.199942
+TIC ID 302686340
+TIC Contamination Ratio     0.02676
+TIC ID 302773503
+TIC Contamination Ratio     0.033506
+TIC ID 303255899
+TIC Contamination Ratio
+TIC ID 303909865
+TIC Contamination Ratio     0.001883
+TIC ID 304033253
+TIC Contamination Ratio     0.002705
+TIC ID 304101379
+TIC Contamination Ratio     0.000207
+TIC ID 304458680
+TIC Contamination Ratio     0.088882
+TIC ID 305386053
+TIC Contamination Ratio     0.324877
+TIC ID 305399324
+TIC Contamination Ratio     1.402466
+TIC ID 305399325
+TIC Contamination Ratio
+TIC ID 305430209
+TIC Contamination Ratio     0.135075
+TIC ID 306263608
+TIC Contamination Ratio     0.000621
+TIC ID 306578324
+TIC Contamination Ratio
+TIC ID 306580215
+TIC Contamination Ratio     1.333887
+TIC ID 306773020
+TIC Contamination Ratio     0.209889
+TIC ID 306956190
+TIC Contamination Ratio
+TIC ID 307016006
+TIC Contamination Ratio
+TIC ID 307062898
+TIC Contamination Ratio     0.617403
+TIC ID 307084879
+TIC Contamination Ratio     0.008912
+TIC ID 307085577
+TIC Contamination Ratio     0.03848
+TIC ID 307216760
+TIC Contamination Ratio     0.023471
+TIC ID 307297481
+TIC Contamination Ratio
+TIC ID 307433122
+TIC Contamination Ratio     0.013586
+TIC ID 308396022
+TIC Contamination Ratio     0.096341
+TIC ID 308402602
+TIC Contamination Ratio     0.030894
+TIC ID 308451526
+TIC Contamination Ratio     0.198308
+TIC ID 308453624
+TIC Contamination Ratio     0.009494
+TIC ID 308457026
+TIC Contamination Ratio     0.017653
+TIC ID 308542383
+TIC Contamination Ratio
+TIC ID 308991822
+TIC Contamination Ratio     0.006621
+TIC ID 309146836
+TIC Contamination Ratio     0.374105
+TIC ID 309658221
+TIC Contamination Ratio     0.003131
+TIC ID 309720946
+TIC Contamination Ratio     0.036336
+TIC ID 309809572
+TIC Contamination Ratio     0.03208
+TIC ID 309828087
+TIC Contamination Ratio     0.001518
+TIC ID 309908721
+TIC Contamination Ratio     0.885018
+TIC ID 309998013
+TIC Contamination Ratio     0.002996
+TIC ID 310004006
+TIC Contamination Ratio
+TIC ID 310170268
+TIC Contamination Ratio     0.000817
+TIC ID 310308203
+TIC Contamination Ratio     0.026034
+TIC ID 310556491
+TIC Contamination Ratio     0.071794
+TIC ID 311070085
+TIC Contamination Ratio     8.6E-5
+TIC ID 311128363
+TIC Contamination Ratio     0.013771
+TIC ID 311183180
+TIC Contamination Ratio     3.8E-5
+TIC ID 312060302
+TIC Contamination Ratio     1.170153
+TIC ID 314459000
+TIC Contamination Ratio     0.03155
+TIC ID 315810194
+TIC Contamination Ratio
+TIC ID 316450573
+TIC Contamination Ratio     0.003866
+TIC ID 316520410
+TIC Contamination Ratio
+TIC ID 317191077
+TIC Contamination Ratio     0.033478
+TIC ID 317250858
+TIC Contamination Ratio     0.01371
+TIC ID 317470793
+TIC Contamination Ratio     0.085012
+TIC ID 317651704
+TIC Contamination Ratio
+TIC ID 317839169
+TIC Contamination Ratio     0.060829
+TIC ID 318512022
+TIC Contamination Ratio     0.204938
+TIC ID 318937509
+TIC Contamination Ratio     0.6712
+TIC ID 320205468
+TIC Contamination Ratio     0.003707
+TIC ID 320415482
+TIC Contamination Ratio     0.103968
+TIC ID 320536498
+TIC Contamination Ratio     0.031404
+TIC ID 321656644
+TIC Contamination Ratio
+TIC ID 321724822
+TIC Contamination Ratio
+TIC ID 321818578
+TIC Contamination Ratio
+TIC ID 323282620
+TIC Contamination Ratio
+TIC ID 323292655
+TIC Contamination Ratio     0.02977
+TIC ID 323301918
+TIC Contamination Ratio
+TIC ID 323442776
+TIC Contamination Ratio
+TIC ID 323727556
+TIC Contamination Ratio     0.02696
+TIC ID 323968843
+TIC Contamination Ratio
+TIC ID 327012081
+TIC Contamination Ratio     0.003787
+TIC ID 327121759
+TIC Contamination Ratio     0.253544
+TIC ID 327251785
+TIC Contamination Ratio
+TIC ID 328417482
+TIC Contamination Ratio     0.273294
+TIC ID 328860378
+TIC Contamination Ratio     0.00044
+TIC ID 329246824
+TIC Contamination Ratio     0.005824
+TIC ID 329248002
+TIC Contamination Ratio     0.000896
+TIC ID 330847328
+TIC Contamination Ratio     0.268774
+TIC ID 330998582
+TIC Contamination Ratio     0.225102
+TIC ID 332079835
+TIC Contamination Ratio
+TIC ID 332204084
+TIC Contamination Ratio     0.218619
+TIC ID 332891271
+TIC Contamination Ratio     0.004701
+TIC ID 333247721
+TIC Contamination Ratio     0.005846
+TIC ID 333642126
+TIC Contamination Ratio     0.041467
+TIC ID 333804979
+TIC Contamination Ratio     0.023091
+TIC ID 336168208
+TIC Contamination Ratio     0.004265
+TIC ID 336485975
+TIC Contamination Ratio     0.298255
+TIC ID 336767770
+TIC Contamination Ratio     0.001499
+TIC ID 337028799
+TIC Contamination Ratio
+TIC ID 337440887
+TIC Contamination Ratio     0.154634
+TIC ID 337886863
+TIC Contamination Ratio
+TIC ID 338071673
+TIC Contamination Ratio     0.012742
+TIC ID 339258033
+TIC Contamination Ratio     0.124121
+TIC ID 339731418
+TIC Contamination Ratio     0.022917
+TIC ID 339960875
+TIC Contamination Ratio     0.038419
+TIC ID 340065168
+TIC Contamination Ratio     0.006556
+TIC ID 340110295
+TIC Contamination Ratio     0.051531
+TIC ID 340633943
+TIC Contamination Ratio     0.05289
+TIC ID 340985103
+TIC Contamination Ratio
+TIC ID 341040660
+TIC Contamination Ratio
+TIC ID 341309569
+TIC Contamination Ratio     0.835256
+TIC ID 341487695
+TIC Contamination Ratio     0.113758
+TIC ID 341550561
+TIC Contamination Ratio
+TIC ID 341615749
+TIC Contamination Ratio     0.001893
+TIC ID 342010156
+TIC Contamination Ratio
+TIC ID 342061072
+TIC Contamination Ratio     0.027138
+TIC ID 343422347
+TIC Contamination Ratio     0.378543
+TIC ID 343553606
+TIC Contamination Ratio     1.293632
+TIC ID 344031627
+TIC Contamination Ratio     0.003437
+TIC ID 344175457
+TIC Contamination Ratio     0.00983
+TIC ID 345170707
+TIC Contamination Ratio     0.025659
+TIC ID 345482340
+TIC Contamination Ratio     0.003287
+TIC ID 345919804
+TIC Contamination Ratio
+TIC ID 346181153
+TIC Contamination Ratio     0.008199
+TIC ID 347552724
+TIC Contamination Ratio     0.020947
+TIC ID 348319604
+TIC Contamination Ratio     0.258189
+TIC ID 348839788
+TIC Contamination Ratio     0.019193
+TIC ID 348898049
+TIC Contamination Ratio     0.306955
+TIC ID 349057976
+TIC Contamination Ratio     0.007621
+TIC ID 349059354
+TIC Contamination Ratio     0.011004
+TIC ID 349091359
+TIC Contamination Ratio     0.174012
+TIC ID 349154435
+TIC Contamination Ratio     0.062995
+TIC ID 349156098
+TIC Contamination Ratio     0.045264
+TIC ID 349195685
+TIC Contamination Ratio     0.106808
+TIC ID 349308842
+TIC Contamination Ratio     0.106272
+TIC ID 349309442
+TIC Contamination Ratio     0.062107
+TIC ID 349310205
+TIC Contamination Ratio
+TIC ID 349409844
+TIC Contamination Ratio
+TIC ID 349480507
+TIC Contamination Ratio     0.006219
+TIC ID 349518145
+TIC Contamination Ratio     0.078237
+TIC ID 349518800
+TIC Contamination Ratio     0.269849
+TIC ID 349519544
+TIC Contamination Ratio
+TIC ID 349523518
+TIC Contamination Ratio     0.030046
+TIC ID 349642881
+TIC Contamination Ratio
+TIC ID 349790953
+TIC Contamination Ratio
+TIC ID 349832824
+TIC Contamination Ratio     0.009795
+TIC ID 349835367
+TIC Contamination Ratio     0.008843
+TIC ID 349972148
+TIC Contamination Ratio     0.164379
+TIC ID 350030939
+TIC Contamination Ratio     0.056889
+TIC ID 350142099
+TIC Contamination Ratio     0.034836
+TIC ID 350146577
+TIC Contamination Ratio
+TIC ID 350297040
+TIC Contamination Ratio     0.025398
+TIC ID 350298314
+TIC Contamination Ratio     0.058016
+TIC ID 350443417
+TIC Contamination Ratio     0.004118
+TIC ID 350445771
+TIC Contamination Ratio     1.217246
+TIC ID 350478924
+TIC Contamination Ratio     0.159127
+TIC ID 350479101
+TIC Contamination Ratio     0.005631
+TIC ID 350480660
+TIC Contamination Ratio     0.055196
+TIC ID 350522254
+TIC Contamination Ratio     0.000346
+TIC ID 350561815
+TIC Contamination Ratio     0.147883
+TIC ID 350622185
+TIC Contamination Ratio     0.556193
+TIC ID 350740905
+TIC Contamination Ratio     0.000406
+TIC ID 350764481
+TIC Contamination Ratio
+TIC ID 350765919
+TIC Contamination Ratio
+TIC ID 350954272
+TIC Contamination Ratio
+TIC ID 351556896
+TIC Contamination Ratio     0.031319
+TIC ID 352110251
+TIC Contamination Ratio     0.028057
+TIC ID 352165018
+TIC Contamination Ratio     0.018894
+TIC ID 352979549
+TIC Contamination Ratio     0.007121
+TIC ID 353077789
+TIC Contamination Ratio     0.203751
+TIC ID 353854078
+TIC Contamination Ratio     0.003742
+TIC ID 353894978
+TIC Contamination Ratio     0.016412
+TIC ID 353939279
+TIC Contamination Ratio
+TIC ID 353987913
+TIC Contamination Ratio     0.00293
+TIC ID 353989471
+TIC Contamination Ratio     0.003659
+TIC ID 354014743
+TIC Contamination Ratio     0.244069
+TIC ID 354385277
+TIC Contamination Ratio     0.665567
+TIC ID 355151781
+TIC Contamination Ratio     0.011867
+TIC ID 355152971
+TIC Contamination Ratio
+TIC ID 355357949
+TIC Contamination Ratio     0.073545
+TIC ID 356015357
+TIC Contamination Ratio     0.001857
+TIC ID 356015361
+TIC Contamination Ratio     0.010377
+TIC ID 356150515
+TIC Contamination Ratio     0.015314
+TIC ID 356340346
+TIC Contamination Ratio     0.002817
+TIC ID 356524567
+TIC Contamination Ratio
+TIC ID 356701798
+TIC Contamination Ratio     0.004217
+TIC ID 356820646
+TIC Contamination Ratio     0.010396
+TIC ID 356896561
+TIC Contamination Ratio
+TIC ID 356974629
+TIC Contamination Ratio     0.57743
+TIC ID 357047278
+TIC Contamination Ratio
+TIC ID 357345626
+TIC Contamination Ratio
+TIC ID 357790008
+TIC Contamination Ratio     0.020283
+TIC ID 358018764
+TIC Contamination Ratio     0.028964
+TIC ID 358108063
+TIC Contamination Ratio     0.012602
+TIC ID 358179405
+TIC Contamination Ratio     0.744392
+TIC ID 358335586
+TIC Contamination Ratio     0.028402
+TIC ID 358510596
+TIC Contamination Ratio
+TIC ID 358659512
+TIC Contamination Ratio
+TIC ID 359188252
+TIC Contamination Ratio     0.012021
+TIC ID 359390362
+TIC Contamination Ratio
+TIC ID 359497418
+TIC Contamination Ratio     0.007915
+TIC ID 359552377
+TIC Contamination Ratio     0.194332
+TIC ID 359588615
+TIC Contamination Ratio     0.151846
+TIC ID 359631482
+TIC Contamination Ratio     0.004352
+TIC ID 359675849
+TIC Contamination Ratio     0.00022
+TIC ID 362104293
+TIC Contamination Ratio     0.003077
+TIC ID 362220700
+TIC Contamination Ratio     0.130573
+TIC ID 362520882
+TIC Contamination Ratio     0.165035
+TIC ID 363149298
+TIC Contamination Ratio     0.3574
+TIC ID 364186087
+TIC Contamination Ratio
+TIC ID 364302118
+TIC Contamination Ratio     0.002765
+TIC ID 364395234
+TIC Contamination Ratio     0.120714
+TIC ID 364399376
+TIC Contamination Ratio     0.014903
+TIC ID 365070128
+TIC Contamination Ratio     0.06579
+TIC ID 365368501
+TIC Contamination Ratio     0.00558
+TIC ID 365428002
+TIC Contamination Ratio     0.010016
+TIC ID 365694569
+TIC Contamination Ratio     0.007756
+TIC ID 366557556
+TIC Contamination Ratio     0.003416
+TIC ID 367681735
+TIC Contamination Ratio     0.188258
+TIC ID 367835766
+TIC Contamination Ratio     0.007485
+TIC ID 367838785
+TIC Contamination Ratio     0.011296
+TIC ID 368208585
+TIC Contamination Ratio     0.022986
+TIC ID 368260545
+TIC Contamination Ratio     0.53465
+TIC ID 369334982
+TIC Contamination Ratio     0.150026
+TIC ID 369506001
+TIC Contamination Ratio     0.177886
+TIC ID 370065236
+TIC Contamination Ratio     0.07621
+TIC ID 370134610
+TIC Contamination Ratio     0.046105
+TIC ID 371839073
+TIC Contamination Ratio     0.003234
+TIC ID 372419506
+TIC Contamination Ratio     0.133848
+TIC ID 372743588
+TIC Contamination Ratio
+TIC ID 372758722
+TIC Contamination Ratio     0.031926
+TIC ID 372816629
+TIC Contamination Ratio     0.03553
+TIC ID 373844472
+TIC Contamination Ratio     0.113093
+TIC ID 374040120
+TIC Contamination Ratio     0.18281
+TIC ID 374704025
+TIC Contamination Ratio     0.120633
+TIC ID 374828411
+TIC Contamination Ratio     0.003601
+TIC ID 374944608
+TIC Contamination Ratio     0.011067
+TIC ID 375599392
+TIC Contamination Ratio     0.023105
+TIC ID 375853985
+TIC Contamination Ratio
+TIC ID 376593757
+TIC Contamination Ratio     0.901425
+TIC ID 377055044
+TIC Contamination Ratio
+TIC ID 377190161
+TIC Contamination Ratio     0.021077
+TIC ID 377192659
+TIC Contamination Ratio     0.470927
+TIC ID 377192675
+TIC Contamination Ratio     0.068471
+TIC ID 377296926
+TIC Contamination Ratio     0.034591
+TIC ID 377307592
+TIC Contamination Ratio     0.003072
+TIC ID 378363284
+TIC Contamination Ratio
+TIC ID 379628820
+TIC Contamination Ratio     0.054076
+TIC ID 379631121
+TIC Contamination Ratio     0.080884
+TIC ID 380618779
+TIC Contamination Ratio     0.11639
+TIC ID 380651349
+TIC Contamination Ratio     0.009603
+TIC ID 380783252
+TIC Contamination Ratio     0.458561
+TIC ID 381948745
+TIC Contamination Ratio     0.001031
+TIC ID 381950094
+TIC Contamination Ratio     0.000329
+TIC ID 382028425
+TIC Contamination Ratio     0.231743
+TIC ID 382069435
+TIC Contamination Ratio
+TIC ID 382160146
+TIC Contamination Ratio     0.013633
+TIC ID 382188882
+TIC Contamination Ratio     0.004775
+TIC ID 382517745
+TIC Contamination Ratio     0.041407
+TIC ID 382631678
+TIC Contamination Ratio     0.118327
+TIC ID 383346621
+TIC Contamination Ratio     0.065003
+TIC ID 383427491
+TIC Contamination Ratio     0.002283
+TIC ID 384031569
+TIC Contamination Ratio     0.121879
+TIC ID 384742846
+TIC Contamination Ratio     0.003449
+TIC ID 384992041
+TIC Contamination Ratio     0.205066
+TIC ID 385041086
+TIC Contamination Ratio     0.010847
+TIC ID 386687697
+TIC Contamination Ratio     0.000319
+TIC ID 387237076
+TIC Contamination Ratio     0.001277
+TIC ID 387513120
+TIC Contamination Ratio     0.045077
+TIC ID 388179896
+TIC Contamination Ratio     0.023773
+TIC ID 388508344
+TIC Contamination Ratio     0.003036
+TIC ID 388602832
+TIC Contamination Ratio     0.12434
+TIC ID 389015383
+TIC Contamination Ratio     0.049968
+TIC ID 389510663
+TIC Contamination Ratio     0.000305
+TIC ID 389669796
+TIC Contamination Ratio     0.125891
+TIC ID 389761749
+TIC Contamination Ratio
+TIC ID 389922504
+TIC Contamination Ratio     0.027616
+TIC ID 390021728
+TIC Contamination Ratio     0.118302
+TIC ID 390408482
+TIC Contamination Ratio
+TIC ID 390632932
+TIC Contamination Ratio     4.5E-5
+TIC ID 390668263
+TIC Contamination Ratio
+TIC ID 390896668
+TIC Contamination Ratio
+TIC ID 390955053
+TIC Contamination Ratio
+TIC ID 391887389
+TIC Contamination Ratio     0.22778
+TIC ID 391927558
+TIC Contamination Ratio     0.282309
+TIC ID 392536812
+TIC Contamination Ratio     0.006271
+TIC ID 393491149
+TIC Contamination Ratio     0.009208
+TIC ID 393672471
+TIC Contamination Ratio     0.025292
+TIC ID 393871721
+TIC Contamination Ratio     0.011613
+TIC ID 394179296
+TIC Contamination Ratio     0.099535
+TIC ID 394230860
+TIC Contamination Ratio     0.001016
+TIC ID 394452884
+TIC Contamination Ratio     0.00294
+TIC ID 396170777
+TIC Contamination Ratio     0.021347
+TIC ID 396424970
+TIC Contamination Ratio     0.105079
+TIC ID 396486931
+TIC Contamination Ratio     0.522502
+TIC ID 396696863
+TIC Contamination Ratio     0.001102
+TIC ID 396903513
+TIC Contamination Ratio
+TIC ID 396953669
+TIC Contamination Ratio
+TIC ID 396954096
+TIC Contamination Ratio     0.001627
+TIC ID 397048159
+TIC Contamination Ratio     0.012139
+TIC ID 397058826
+TIC Contamination Ratio     0.000716
+TIC ID 398785689
+TIC Contamination Ratio     0.010488
+TIC ID 399664959
+TIC Contamination Ratio     0.02203
+TIC ID 399788405
+TIC Contamination Ratio     0.039316
+TIC ID 400302671
+TIC Contamination Ratio     0.070957
+TIC ID 401227592
+TIC Contamination Ratio     0.069546
+TIC ID 401606923
+TIC Contamination Ratio     0.008563
+TIC ID 401946845
+TIC Contamination Ratio     0.001068
+TIC ID 402447670
+TIC Contamination Ratio     0.07332
+TIC ID 403118245
+TIC Contamination Ratio     0.022473
+TIC ID 404103665
+TIC Contamination Ratio     0.446915
+TIC ID 404123632
+TIC Contamination Ratio     0.007269
+TIC ID 404804908
+TIC Contamination Ratio
+TIC ID 404854539
+TIC Contamination Ratio     0.137377
+TIC ID 404927661
+TIC Contamination Ratio     0.013839
+TIC ID 405034090
+TIC Contamination Ratio
+TIC ID 405219270
+TIC Contamination Ratio     0.027078
+TIC ID 405219739
+TIC Contamination Ratio
+TIC ID 405220019
+TIC Contamination Ratio
+TIC ID 406095880
+TIC Contamination Ratio     0.004347
+TIC ID 406798603
+TIC Contamination Ratio     0.032485
+TIC ID 406864355
+TIC Contamination Ratio     0.060159
+TIC ID 407298349
+TIC Contamination Ratio     0.025695
+TIC ID 407515765
+TIC Contamination Ratio
+TIC ID 407594410
+TIC Contamination Ratio
+TIC ID 407661994
+TIC Contamination Ratio     0.046358
+TIC ID 407823917
+TIC Contamination Ratio     0.017249
+TIC ID 407824089
+TIC Contamination Ratio
+TIC ID 408131298
+TIC Contamination Ratio
+TIC ID 410354930
+TIC Contamination Ratio     0.044798
+TIC ID 410868364
+TIC Contamination Ratio     0.001372
+TIC ID 411416726
+TIC Contamination Ratio     0.203687
+TIC ID 411451519
+TIC Contamination Ratio     0.023365
+TIC ID 415045920
+TIC Contamination Ratio     2.030442
+TIC ID 416024040
+TIC Contamination Ratio     0.003421
+TIC ID 417118871
+TIC Contamination Ratio     0.002104
+TIC ID 417126296
+TIC Contamination Ratio     0.017897
+TIC ID 417175621
+TIC Contamination Ratio     1.9E-5
+TIC ID 417734853
+TIC Contamination Ratio     0.028546
+TIC ID 418295363
+TIC Contamination Ratio
+TIC ID 418532689
+TIC Contamination Ratio
+TIC ID 419575080
+TIC Contamination Ratio     0.007889
+TIC ID 419744996
+TIC Contamination Ratio     0.002242
+TIC ID 420114772
+TIC Contamination Ratio     0.069508
+TIC ID 420137341
+TIC Contamination Ratio     0.007376
+TIC ID 420645952
+TIC Contamination Ratio     0.001506
+TIC ID 420757505
+TIC Contamination Ratio     0.000673
+TIC ID 420947520
+TIC Contamination Ratio     0.003894
+TIC ID 420962954
+TIC Contamination Ratio     0.074675
+TIC ID 422251657
+TIC Contamination Ratio     0.485815
+TIC ID 422284103
+TIC Contamination Ratio     2.7E-5
+TIC ID 422844353
+TIC Contamination Ratio     0.001874
+TIC ID 422965201
+TIC Contamination Ratio     9.2E-5
+TIC ID 423027012
+TIC Contamination Ratio     0.026895
+TIC ID 423524230
+TIC Contamination Ratio     0.03647
+TIC ID 424796997
+TIC Contamination Ratio     0.003304
+TIC ID 424992973
+TIC Contamination Ratio     0.008284
+TIC ID 425064757
+TIC Contamination Ratio     0.687457
+TIC ID 425158608
+TIC Contamination Ratio     0.102074
+TIC ID 425172025
+TIC Contamination Ratio
+TIC ID 425206121
+TIC Contamination Ratio     0.012664
+TIC ID 425215390
+TIC Contamination Ratio     0.000786
+TIC ID 426111509
+TIC Contamination Ratio     0.067369
+TIC ID 426588729
+TIC Contamination Ratio
+TIC ID 426803687
+TIC Contamination Ratio
+TIC ID 427063387
+TIC Contamination Ratio     0.127098
+TIC ID 427578308
+TIC Contamination Ratio     0.006417
+TIC ID 427654774
+TIC Contamination Ratio     0.194001
+TIC ID 428055818
+TIC Contamination Ratio
+TIC ID 428772119
+TIC Contamination Ratio     0.007929
+TIC ID 428784674
+TIC Contamination Ratio     0.175505
+TIC ID 428795527
+TIC Contamination Ratio     0.567563
+TIC ID 428987718
+TIC Contamination Ratio     0.02503
+TIC ID 431589510
+TIC Contamination Ratio     0.000293
+TIC ID 431936432
+TIC Contamination Ratio
+TIC ID 435336503
+TIC Contamination Ratio     0.011138
+TIC ID 436243444
+TIC Contamination Ratio     0.054634
+TIC ID 436592342
+TIC Contamination Ratio     0.002375
+TIC ID 436847239
+TIC Contamination Ratio
+TIC ID 437212966
+TIC Contamination Ratio     0.55516
+TIC ID 437241830
+TIC Contamination Ratio     0.00702
+TIC ID 437322147
+TIC Contamination Ratio     0.001408
+TIC ID 440676745
+TIC Contamination Ratio
+TIC ID 440796977
+TIC Contamination Ratio     0.052405
+TIC ID 441128066
+TIC Contamination Ratio     0.003653
+TIC ID 441183795
+TIC Contamination Ratio     0.00027
+TIC ID 441499423
+TIC Contamination Ratio     0.001967
+TIC ID 441641972
+TIC Contamination Ratio     0.000523
+TIC ID 441687696
+TIC Contamination Ratio     0.047004
+TIC ID 441690583
+TIC Contamination Ratio     0.023937
+TIC ID 441721258
+TIC Contamination Ratio     0.00073
+TIC ID 441721286
+TIC Contamination Ratio     0.000139
+TIC ID 441734144
+TIC Contamination Ratio     0.005464
+TIC ID 441739153
+TIC Contamination Ratio     0.006836
+TIC ID 441794509
+TIC Contamination Ratio     0.090059
+TIC ID 441804888
+TIC Contamination Ratio     0.044298
+TIC ID 441807438
+TIC Contamination Ratio     0.009632
+TIC ID 442240473
+TIC Contamination Ratio
+TIC ID 442918617
+TIC Contamination Ratio
+TIC ID 443171652
+TIC Contamination Ratio     0.68915
+TIC ID 443969553
+TIC Contamination Ratio     0.00018
+TIC ID 444801274
+TIC Contamination Ratio     0.297582
+TIC ID 445556827
+TIC Contamination Ratio
+TIC ID 445924091
+TIC Contamination Ratio     0.036915
+TIC ID 445932196
+TIC Contamination Ratio     0.057061
+TIC ID 446175401
+TIC Contamination Ratio     0.003838
+TIC ID 449999729
+TIC Contamination Ratio     0.032048
+TIC ID 452786194
+TIC Contamination Ratio     0.024501
+TIC ID 452845139
+TIC Contamination Ratio     0.141427
+TIC ID 453012065
+TIC Contamination Ratio
+TIC ID 453097744
+TIC Contamination Ratio     0.014854
+TIC ID 453552912
+TIC Contamination Ratio
+TIC ID 454190342
+TIC Contamination Ratio
+TIC ID 454222105
+TIC Contamination Ratio     0.043556
+TIC ID 454665792
+TIC Contamination Ratio     0.192663
+TIC ID 454855280
+TIC Contamination Ratio     0.043253
+TIC ID 455110001
+TIC Contamination Ratio     0.003139
+TIC ID 455206965
+TIC Contamination Ratio     0.437435
+TIC ID 456610411
+TIC Contamination Ratio     0.014324
+TIC ID 457172621
+TIC Contamination Ratio     0.011444
+TIC ID 457427613
+TIC Contamination Ratio
+TIC ID 458267524
+TIC Contamination Ratio
+TIC ID 458481461
+TIC Contamination Ratio     0.138876
+TIC ID 458842028
+TIC Contamination Ratio     0.020102
+TIC ID 458847254
+TIC Contamination Ratio     0.08526
+TIC ID 458911894
+TIC Contamination Ratio
+TIC ID 459252372
+TIC Contamination Ratio     0.001209
+TIC ID 461579405
+TIC Contamination Ratio     0.018253
+TIC ID 461625381
+TIC Contamination Ratio
+TIC ID 461713146
+TIC Contamination Ratio
+TIC ID 462785373
+TIC Contamination Ratio
+TIC ID 463507016
+TIC Contamination Ratio     0.023818
+TIC ID 464380201
+TIC Contamination Ratio     0.018644
+TIC ID 464422047
+TIC Contamination Ratio     0.005264
+TIC ID 464886060
+TIC Contamination Ratio     0.160646
+TIC ID 467181063
+TIC Contamination Ratio
+TIC ID 467668926
+TIC Contamination Ratio     0.157392
+TIC ID 467785365
+TIC Contamination Ratio     0.215644
+TIC ID 468276605
+TIC Contamination Ratio     0.051274
+TIC ID 468606062
+TIC Contamination Ratio     0.00469
+TIC ID 468641429
+TIC Contamination Ratio     0.035274
+TIC ID 468887783
+TIC Contamination Ratio     0.000336
+TIC ID 468948126
+TIC Contamination Ratio     0.090566
+TIC ID 468958374
+TIC Contamination Ratio     0.075882
+TIC ID 469441650
+TIC Contamination Ratio     0.281348
+TIC ID 470124714
+TIC Contamination Ratio     0.003496
+TIC ID 470152814
+TIC Contamination Ratio     0.04898
+TIC ID 470212961
+TIC Contamination Ratio
+TIC ID 470901118
+TIC Contamination Ratio     0.01731
+TIC ID 471012349
+TIC Contamination Ratio
+TIC ID 609742113
+TIC Contamination Ratio
+TIC ID 640714388
+TIC Contamination Ratio
+TIC ID 1717079071
+TIC Contamination Ratio
+TIC ID 1883519478
+TIC Contamination Ratio     1.018992
+TIC ID 1981303680
+TIC Contamination Ratio     1.682495
