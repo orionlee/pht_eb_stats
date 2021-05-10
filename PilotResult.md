@@ -33,6 +33,8 @@ The list of 67 candidates is produced by the following method:
 - 67 TICs retained, producing the candidate list.
   - Upward 65 real eclipsing binaries are expected, based on a proxy of tagging accuracy of 96.6% (see below).
 
+- Note: the initial 2000 subjects are selected quasi-randomly. They are scraped from [#eclipisingbinary](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/tags/eclipsingbinary) in Planet Hunters TESS Talk. 200 pages are arbitrarily selected, with 10 subjects on each page.
+
 
 ## Tagging Accuracy
 
@@ -55,9 +57,12 @@ The breakdown of the proxy accuracy:
 ![image](https://user-images.githubusercontent.com/250644/116791661-cbf7b600-aa70-11eb-8f93-ae6474057569.png)
 
 
+*Note:* Strictly speaking, the accuracy discussed here is concerned about false positives. False negatives are not considered.
+
+
 ### Manual Vetting
 
-I have manually scrutinized about 20 subjects, and report that the majority of them do look like eclipsing binary.
+I have manually scrutinized about 20 additional subjects, and report that the majority of them do look like eclipsing binary.
 While I am not expert in classifying eclipsing binary, I feel the scrutiny provide some assurance that the proxy accuracy reported above is not way off the actual one.
 
 
@@ -140,11 +145,25 @@ The following are the top 9 candidates 9 with the `N_eb_adj` >= 5, with some not
 One of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), is special in that only one eclipses was observed. It is likely to be a long period eclipsing binary (with a period longer than 100 days). Targets similar to this one are likely to fall through the crack of typical automated pipelines to identify eclipsing binaries.
 
 
+## Future Work and Ideas
+
+- Expand to cover all targets from sectors 1 - 26 (the TESS prime mission) if the pilot is deemed viable and useful.
+- Vet all 67 candidates and learn how the process could be improved.
+- One area could be reducing false positives.
+  - possibly some other tags might indicate false positives (in addition to transit-like ones), e.g., `#contaminated`
+  - Eliminate false positives due to contamination.
+    - E.g., infer the companion object's approximate radius and flag those that are too small
+    - the radius can be inferred from the dips' approximate depth, which could plausibly obtained from some of the following sources.
+      - [TCEs](https://exo.mast.stsci.edu/): some of the candidates are flagged by the exoplanet finding pipeline, which can provide information on the identified periodic dips.
+      - [Planet Hunters Analysis Database](https://mast.stsci.edu/phad/about.html): contains the dips identified by Planet Hunters TESS volunteers.
+      - Standard periodicity finding algorithms, e.g., Box Least Squares, Lomb-Scargle , etc.
+
+
 ## Data
 
 - The candidate list is available in :  [csv](data_samples/pht_eb_candidates_from_samples.csv), [google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing)
 
-- This [google sheet](https://docs.google.com/spreadsheets/d/18wDmfVStrwNpAf-6RDzmYPUzVSEkG3zMbzZKFuYQ2Ss/edit?usp=sharing) contains data of all the TICs before data reduction is done to create the sample list.
+- This [google sheet](https://docs.google.com/spreadsheets/d/18wDmfVStrwNpAf-6RDzmYPUzVSEkG3zMbzZKFuYQ2Ss/edit?usp=sharing) contains data of all the TICs before data reduction is done to create the candidate list.
 
 ## Credits
 
