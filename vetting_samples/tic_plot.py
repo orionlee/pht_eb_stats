@@ -25,6 +25,7 @@ import pandas as pd
 
 from astropy.io import fits
 from astropy import units as u
+from astropy.table import Table
 from astroquery.exceptions import NoResultsWarning
 from astroquery.mast import Observations
 
@@ -153,11 +154,18 @@ def parse_dvr_xml(file_path):
 
 
 def get_tce_infos_of_tic(tic_id, download_dir=None):
+    def filter_by_dataURI_suffix(products, suffix):
+        # Helper to filter products into summary, full report, full report xml using suffix.
+        # It replaces the logic to filter by "description" column, as description is sometimes unreliable
+        # E.g., for the TCE for TIC 43843023 sector 5, the dvr xml has incorrect description
+        # so that the entry is treated as a dvr pdf
+        return products[np.char.endswith(products["dataURI"], suffix)]
+
     products_wanted = get_dv_products_of_tic(tic_id, ["DVS", "DVR"], download_dir=download_dir)
 
     res = []
     # basic info
-    for p in products_wanted[products_wanted["productSubGroupDescription"] == "DVS"]:
+    for p in filter_by_dataURI_suffix(products_wanted, "_dvs.pdf"):
         tce_info = parse_dvs_filename(p["productFilename"])
         entry = dict(
             obsID=p["obsID"],
@@ -171,12 +179,12 @@ def get_tce_infos_of_tic(tic_id, download_dir=None):
         res.append(entry)
 
     # DVR pdf link
-    for p in products_wanted[products_wanted["description"] == "full data validation report"]:
+    for p in filter_by_dataURI_suffix(products_wanted, "_dvr.pdf"):
         # find TCEs for the same observation (sometimes there are multiple TCEs for the same observation)
         for entry in [e for e in res if e["obsID"] == p["obsID"]]:
             entry["dvr_dataURI"] = p["dataURI"]
 
-    products_dvr_xml = products_wanted[products_wanted["description"] == "full data validation report (xml)"]
+    products_dvr_xml = filter_by_dataURI_suffix(products_wanted, "_dvr.xml")
     manifest = Observations.download_products(products_dvr_xml, download_dir=download_dir)
     if manifest is None:
         return res
@@ -201,7 +209,7 @@ def get_tce_infos_of_tic(tic_id, download_dir=None):
     return res
 
 
-def get_tic_meta_in_html(lc, download_dir=None):
+def get_tic_meta_in_html(lc, a_subject_id=None, download_dir=None):
     # This function does not do the actual display,
     # so that the caller can call it in background
     # and display it whereever it's needed
@@ -229,13 +237,21 @@ def get_tic_meta_in_html(lc, download_dir=None):
 """
     html += "&emsp;" + link("ExoFOP", f"https://exofop.ipac.caltech.edu/tess/target.php?id={tic_id}")
     html += "\n&emsp;|&emsp;"
-    html += (
-        link(
-            "PHT Talk",
-            f"https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/search?query={tic_id}",
-        )
-        + "<br>\n"
+    html += link(
+        "PHT Talk",
+        f"https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/search?query={tic_id}",
     )
+    if a_subject_id is not None:
+        # note, a TIC can have multiple subjects, here is just one of them.
+        html += "\n , a subject: "
+        html += link(
+            a_subject_id,
+            f"https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/{a_subject_id}",
+        )
+        # show the sector number (here we assume a_subject_id does correspond the the sector)
+        # the sector is useful to be included so that users can easily locate the TCE matching the sector.
+        html += f' (sector {safe_m_get("SECTOR", "")})'
+    html += "<br>\n"
     html += "<table>\n"
     html += prop("R<sub>S</sub> (in R<sub>☉</sub>)", f'{safe_m_get("RADIUS", 0):.3f}')
     html += prop("Magnitude (TESS)", f'{safe_m_get("TESSMAG", 0):.2f}')
@@ -259,6 +275,7 @@ def get_tic_meta_in_html(lc, download_dir=None):
         ("Period", "day"),
         ("Depth", "%"),
         ("Impact P.", "<i>b</i>"),
+        ("Codes", ""),
     ]
     html += """<br>TCEs: <table>
 <thead>"""
@@ -281,14 +298,19 @@ def get_tic_meta_in_html(lc, download_dir=None):
         html += row(
             link(info.get("tce_id_short"), exomast_url),
             f"""{link("dvs", dvs_url)},&emsp;{link("full", dvr_url)}""",
-            f'{p_i.get("planetRadiusEarthRadii") * R_EARTH_TO_R_JUPITER:.3f}',
-            f'{p_i.get("transitEpochBtjd"):.4f}',
-            f'{p_i.get("transitDurationHours"):.4f}',
-            f'{p_i.get("orbitalPeriodDays"):.6f}',
-            f'{p_i.get("transitDepthPpm") / 10000:.4f}',
-            f'{p_i.get("minImpactParameter"):.2f}',
+            f'{p_i.get("planetRadiusEarthRadii", 0) * R_EARTH_TO_R_JUPITER:.3f}',
+            f'{p_i.get("transitEpochBtjd", 0):.4f}',
+            f'{p_i.get("transitDurationHours", 0):.4f}',
+            f'{p_i.get("orbitalPeriodDays", 0):.6f}',
+            f'{p_i.get("transitDepthPpm", 0) / 10000:.4f}',
+            f'{p_i.get("minImpactParameter", 0):.2f}',
+            # code fragments to so that users can easily use a TCE as an entry in transit_specs
+            f"""\
+<input type="text" style="margin-left: 3ch; font-size: 90%; color: #666; width: 10ch;"
+       value='epoch={p_i.get("transitEpochBtjd", 0):.4f}, duration_hr={p_i.get("transitDurationHours", 0):.4f}, \
+period={p_i.get("transitDepthPpm", 0) / 10000:.4f}, label="{info.get("tce_id_short")}"'>""",
         )
-        html += "<br>\n"
+        html += "\n"
 
     html += "</tbody></table>\n"
 
@@ -1196,6 +1218,15 @@ class TransitTimeSpecList(list):
     @property
     def duration(self):
         return self.duration_hr / 24
+
+    @property
+    def label(self):
+        return self._spec_property_values("label")
+
+    def to_table(self, columns=("label", "epoch", "duration_hr", "period")):
+        """Convert the specs to an ``astropy.Table``"""
+        data = [getattr(self, col) for col in columns]
+        return Table(data, names=columns)
 
 
 def mark_transit_times(
