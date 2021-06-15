@@ -194,6 +194,7 @@ For example, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=
 
 - Manual vetting
   - the [candidate list google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing) also include manual vetting result.
+  - The list can be browsed more easily with [this app](https://www.appsheet.com/start/0bd95527-3a0b-456e-b474-33386b5bac05)
   - Reports of individual candidates can be found in [vetting_samples folder](vetting_samples/)
 
 - This [google sheet](https://docs.google.com/spreadsheets/d/18wDmfVStrwNpAf-6RDzmYPUzVSEkG3zMbzZKFuYQ2Ss/edit?usp=sharing) contains data of all the TICs before data reduction is done to create the candidate list.
