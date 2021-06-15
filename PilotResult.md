@@ -4,21 +4,24 @@
 
 - Goal: produce a list of eclipsing binary candidates not in existing well known catalogs: [VSX](https://www.aavso.org/vsx/), [ASAS-SN](https://asas-sn.osu.edu/variables), [SIMBAD](http://simbad.u-strasbg.fr/simbad/), and [TESS Eclipsing Binary Data Validation](https://baas.aas.org/pub/2021n1i530p01)
 - Based on a sample of 2000 subjects tagged with [#eclipisingbinary](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/tags/eclipsingbinary) in Planet Hunters TESS Talk across sectors 1 -26 (covering full sky), or 1448 unique TICs.
-- Produced a list of **67** new eclipsing binary candidates.
-- While there is no rigorous assessment of the accuracy of the tagging yet, there are reason to believe that they are quite accurate, upward about **96%** in the candidate list.
-  - i.e, the list of 67 candidates is expected to have upward **65** real eclipsing binaries.
+- Produced a list of **61** new eclipsing binary candidates.
+- While there is no rigorous assessment of the accuracy of the tagging yet, there are reason to believe that they are quite accurate, upward about **94%** overall, **75%** among the new candidates.
   - the [list in csv](data_samples/pht_eb_candidates_from_samples.csv)
-- If the work is expanded to all subjects across sectors 1 - 26, the list is estimated to have about **670** candidates.
-- The top 9 most promising candidates are further inspected manually. They all appear to be legitimate eclipsing binaries.
-  - Among the 9 top candidates, one of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), has only 1 eclipse observed. Such targets are much less likely to be detected by automated pipelines.
+- If the work is expanded to all subjects across sectors 1 - 26, the list is estimated to have about **610** candidates.
+- The 61 candidates are further vetted manually, 46 (75%) remain viable.
+  - The accuracy drops off significantly for `N_eb_adj` = 2 (see Methodology section).
+- Among the candidates, a few of them, e.g., TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), have only 1 eclipse observed. Such targets are much less likely to be detected by automated pipelines.
+- If the work is expanded to cover entire primary mission (sectors 1 - 26), the result could potentially be used for
+  - augment existing catalogs for, e.g., population-based studies.
+  - feedback for automated pipeline / algorithms that could points to potential area of improvement.
 
 ## Methodology
 
-The list of 67 candidates is produced by the following method:
+The list of candidates is produced by the following method:
 
 - Given the 2000 subjects, crawl their talk pages to count the number of eclipsing binary (and its variants) tags.
   - Transit-like tags are also counted as "opposition votes."
-- Each subject is assigned with a *adjusted number of eclipsing binary tags*,  `N_eb_adj`
+- Each subject is assigned with a *adjusted number of eclipsing binary tags*,  `N_eb_adj`: number of eclipsing binary tags minus transit-like tags.
 - Group the subject by TICs.
   - If a TIC has multiple subjects, use the largest `N_eb_adj`
 - 1448 unique TICs are produced from the 2000 subjects.
@@ -30,8 +33,12 @@ The list of 67 candidates is produced by the following method:
   - In other words, retain those:
     - not listed in any of the 4 catalogs,
     - listed, but the classification in unrelated to eclipsing binary classification, e.g., High Proper Motion Star in SIMBAD.
-- 67 TICs retained, producing the candidate list.
-  - Upward 65 real eclipsing binaries are expected, based on a proxy of tagging accuracy of 96.6% (see below).
+- 61 TICs retained, producing the candidate list.
+  - Note: initially, 67 TICs are retained, 6 of which are excluded.
+    - It turns out there was some error in the initial PHT subject selection, 13 of which are from sectors 27 (extended mission).
+    - As a result, 6 TICs that rely exclusively on those sector 27 subjects were excluded from the candidate list, to keep the study focused on primary mission data only.
+- The 61 TICs are further inspected manually. 46 TICs are retained.
+  - The retained TICs eclipsing binary candidates, contaminated by a nearby eclipsing binary, or a known one (confirmed by sources outside the catalogs matched).
 
 - Note: the initial 2000 subjects are selected quasi-randomly. They are scraped from [#eclipisingbinary](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/tags/eclipsingbinary) in Planet Hunters TESS Talk. 200 pages are arbitrarily selected, with 10 subjects on each page.
 
@@ -43,7 +50,7 @@ The list of 67 candidates is produced by the following method:
 While there is no formal assessment of the tagging accuracy (there is no definite answer that can be compared against), a proxy accuracy is produced
 by considering only those listed in the catalogs, count those listed as eclipsing binary and those most likely not an eclipsing binary.
 
-I group the TICs by `N_eb_adj`, and find at `N_eb_adj` = 2, the proxy accuracy is 93.6%. With `N_eb_adj` >= 2 (the cutoff point of the 67 TICs), the proxy accuracy is 96.6%.
+I group the TICs by `N_eb_adj`, and find at `N_eb_adj` = 2, the proxy accuracy is 93.6%. With `N_eb_adj` >= 2 (the cutoff point of the 61 TICs), the proxy accuracy is 96.6%.
 
 One limitation of the proxy accuracy is that the TICs counted are biased (they are present in the catalog to begin with): it probably represents the best case accuracy, while the actual accuracy is probably lower.
 
@@ -62,9 +69,27 @@ The breakdown of the proxy accuracy:
 
 ### Manual Vetting
 
-I have manually scrutinized about 20 additional subjects, and report that the majority of them do look like eclipsing binary.
-While I am not expert in classifying eclipsing binary, I feel the scrutiny provide some assurance that the proxy accuracy reported above is not way off the actual one.
+The 61 candidates are manually vetted, using the following data:
 
+- lightcurve data (lightcurve and target pixel files)
+- TCE vetting reports, if available.
+- Comments from PHT volunteers about the subjects.
+
+The primary goals are:
+
+- weed out those that do not look like eclipsing binaries.
+- identify those that are likely to be blended / contaminated: they are still retained, but are marked separately, with the potential contamination source identified.
+
+After vetting, 46 TICs, or about 75%, remain viable. There is a significant dropoff in accuracy for those `N_eb_adj` = 2.
+
+- those with `N_eb_adj` >= 3 : accuracy is 95.2%
+- those with `N_eb_adj` = 2 : accuracy is 65.0%
+
+The breakdown:
+![image](https://user-images.githubusercontent.com/250644/122117298-8ce0b280-cddb-11eb-9ff1-281d7ef5eb65.png)
+
+
+The details of individual vetting is available. See Data Section below.
 
 ## Top Candidates
 
@@ -142,16 +167,20 @@ The following are the top 9 candidates 9 with the `N_eb_adj` >= 5, with some not
 
 ### Single Eclipse Candidates
 
-One of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), is special in that only one eclipses was observed. It is likely to be a long period eclipsing binary (with a period longer than 100 days). Targets similar to this one are likely to fall through the crack of typical automated pipelines to identify eclipsing binaries.
+4 candidates have only 1 eclipse observed. They are noted  as single eclipse candidates.
+
+For example, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=388508344)  (Subject [48227275](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/48227275)), is special in that only one eclipses was observed. It is likely to be a long period eclipsing binary (with a period longer than 100 days). Targets similar to this one are likely to fall through the crack of typical automated pipelines to identify eclipsing binaries.
 
 
 ## Future Work and Ideas
 
 - Expand to cover all targets from sectors 1 - 26 (the TESS prime mission) if the pilot is deemed viable and useful.
-- Vet all 67 candidates and learn how the process could be improved.
+- The candidate list's accuracy is so so (75%). However,
+  - those with `N_eb_adj` >= 3 is quite accurate. The downside is they only account for about 33% of the candidates (21 out of 61).
+  - those with `N_eb_adj` =2's accuracy is so-so (65%). There are possibilities to weed some of them out automatically.
 - One area could be reducing false positives.
-  - possibly some other tags might indicate false positives (in addition to transit-like ones), e.g., `#contaminated`
-  - Eliminate false positives due to contamination.
+  - possibly some other tags might indicate false positives (in addition to transit-like ones), e.g., tags for pulsators, `#contaminated`, etc.
+  - Identify those that are likely to be contaminated by / blended with a nearby eclipsing binary.
     - E.g., infer the companion object's approximate radius and flag those that are too small
     - the radius can be inferred from the dips' approximate depth, which could plausibly obtained from some of the following sources.
       - [TCEs](https://exo.mast.stsci.edu/): some of the candidates are flagged by the exoplanet finding pipeline, which can provide information on the identified periodic dips.
@@ -162,6 +191,10 @@ One of them, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=
 ## Data
 
 - The candidate list is available in :  [csv](data_samples/pht_eb_candidates_from_samples.csv), [google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing)
+
+- Manual vetting
+  - the [candidate list google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing) also include manual vetting result.
+  - Reports of individual candidates can be found in [vetting_samples folder](vetting_samples/)
 
 - This [google sheet](https://docs.google.com/spreadsheets/d/18wDmfVStrwNpAf-6RDzmYPUzVSEkG3zMbzZKFuYQ2Ss/edit?usp=sharing) contains data of all the TICs before data reduction is done to create the candidate list.
 
