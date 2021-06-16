@@ -72,8 +72,9 @@ The breakdown of the proxy accuracy:
 The 61 candidates are manually vetted, using the following data:
 
 - lightcurve data (lightcurve and target pixel files)
-- TCE vetting reports, if available.
+- TCE vetting reports and  TFOPWG observations if available.
 - Comments from PHT volunteers about the subjects.
+- It does not include any modeling or additional observation.
 
 The primary goals are:
 
