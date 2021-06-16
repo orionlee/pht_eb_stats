@@ -88,6 +88,19 @@ After vetting, 46 TICs, or about 75%, remain viable. There is a significant drop
 The breakdown:
 ![image](https://user-images.githubusercontent.com/250644/122117298-8ce0b280-cddb-11eb-9ff1-281d7ef5eb65.png)
 
+Of the 46 viable TICs:
+
+- The majority have EA ([Algol](https://en.wikipedia.org/wiki/Algol_variable)) like lightcurves, to no surprise.
+- 4 only have single eclipse in observation. See section Single Eclipse Candidates.
+- 9 of which are classified as NEB (nearby eclipsing binary). They are included as there is still a candidate out there, though not the TIC itself. The potential actual eclipsing binaries are included.
+- 1 is classified as KEB (known eclipsing binary), ELBM J0645-61, which is not in the catalogs matched.
+  - An additional one, TIC 199688472, that is known in the sense that TFOPWG retired it is an eclipsing binary. But given it is not listed in any catalog yet, it is counted as an eclipsing binary candidate here.
+
+Of the 15 false positives:
+
+- Many of the false positives are lightcurves that resemble pulsators.
+- In particular, there is a subset (6 out of 15) show alternate deep/shallow dips but are not quite eclipsing binaries. Their actual nature is not yet known. See [this thread](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2107/2034583?comment=3320432) for the list and the lightcurves.
+- One of them, [TIC 397058826](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/44568773) might actually be a planet.
 
 The details of individual vetting is available. See Data Section below.
 
