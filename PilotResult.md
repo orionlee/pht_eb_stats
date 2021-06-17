@@ -100,7 +100,7 @@ Of the 46 viable TICs:
 Of the 15 false positives:
 
 - Many of the false positives are lightcurves that resemble pulsators.
-- In particular, there is a subset (6 out of 15) show alternate deep/shallow dips but are not quite eclipsing binaries. Their actual nature is not yet known. See [this thread](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2107/2034583?comment=3320432) for the list and the lightcurves.
+- In particular, there is a subset (6 out of 15) show alternate deep/shallow dips but are not quite eclipsing binaries. They appear to be rotators of magnetic type. See [this thread](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2107/2034583?comment=3320432) for the list and the lightcurves.
 - One of them, [TIC 397058826](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/subjects/44568773) might actually be a planet.
 
 The details of individual vetting is available. See Data Section below.
