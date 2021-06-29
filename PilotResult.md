@@ -202,6 +202,25 @@ For example, TIC [388508344](https://exofop.ipac.caltech.edu/tess/target.php?id=
       - Standard periodicity finding algorithms, e.g., Box Least Squares, Lomb-Scargle , etc.
 
 
+## (NEW) Excluding TESS Eclipsing Binary Data Validation
+
+After the pilot result was initially posted, it was suggested [TESS Eclipsing Binary Data Validation](https://baas.aas.org/pub/2021n1i530p01) (TESSEBS) should be excluded from the cross match.
+
+If TESSEBs is excluded i.e. matching against VSX, SIMBAD and ASAS-SN,
+
+- the proxy accuracy (possibly the upper bound) for candidates, i.e., the TICs with `N_eb_adj` >= 2, drops from **96.6% to 91.1%**.
+- the number of candidates not found in catalogs increases from **67 to 210**.
+  - Caveat: The number includes a handful of TICs that should be excluded as they come from sector 27 data. It does not change the scale, however.
+- For TICs with `N_eb_adj` <= 1, the proxy accuracy drops from 70-ish% to 50-ish%.
+
+From pilot - TESSEBS included:
+![image](https://user-images.githubusercontent.com/250644/116791661-cbf7b600-aa70-11eb-8f93-ae6474057569.png)
+
+
+New result - TESSEBS excluded:
+![image](https://user-images.githubusercontent.com/250644/123860219-77d74980-d8da-11eb-860f-6671e714f45f.png)
+
+
 ## Data
 
 - The candidate list is available in :  [csv](data_samples/pht_eb_candidates_from_samples.csv), [google sheet](https://docs.google.com/spreadsheets/d/1np63ehIBzJirj0byuZv8_7qW5e4JAM9XvAxB5UPoAi0/edit?usp=sharing)
